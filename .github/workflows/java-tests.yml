@@ -42,7 +42,7 @@ jobs:
       run: cd java && gradle wrapper
 
     - name: Build and test with Gradle
-      run: ./gradlew clean test
+      run: cd java && ./gradlew clean test
       
     - name: Upload test results
       if: always()
