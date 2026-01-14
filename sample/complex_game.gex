@@ -1,0 +1,2438 @@
+<?xml version="1.0"?>
+<grapevine version="3">
+  <calendar lastmodified="1/1/2026 1:27:41 PM">
+    <game date="1/8/2026" time="10:00 AM">
+      <place>
+        <![CDATA[luke-hdl@github]]>
+      </place>
+    </game>
+    <game date="1/21/2026" time="10:00 AM">
+      <place>
+        <![CDATA[luke-hdl@github]]>
+      </place>
+    </game>
+    <game date="2/3/2026" time="10:00 AM">
+      <place>
+        <![CDATA[luke-hdl@github]]>
+      </place>
+    </game>
+    <game date="2/23/2026" time="10:00 AM">
+      <place>
+        <![CDATA[luke-hdl@github]]>
+      </place>
+    </game>
+  </calendar>
+  <aprsettings personalactions="4" publicrumors="yes" personalrumors="yes" racerumors="yes" grouprumors="yes" subgrouprumors="yes" influencerumors="yes" previousrumors="yes">
+    <traitlist name="Actions" abc="no" display="0">
+      <trait name="1" val="2"/>
+      <trait name="2" val="4"/>
+      <trait name="3" val="6"/>
+      <trait name="4" val="8"/>
+      <trait name="5" val="10"/>
+      <trait name="6" val="12"/>
+      <trait name="7" val="14"/>
+      <trait name="8" val="16"/>
+      <trait name="9" val="18"/>
+      <trait name="10" val="20"/>
+    </traitlist>
+    <traitlist name="Backgrounds" abc="no" display="0">
+      <trait name="Contacts"/>
+      <trait name="Resources"/>
+      <trait name="Kinfolk"/>
+    </traitlist>
+  </aprsettings>
+  <award use="XP" name="Attendance" type="0" change="1" reason="Attendance"/>
+  <award use="XP" name="Costuming" type="0" change="1" reason="Costuming"/>
+  <award use="XP" name="Downtime Activities" type="0" change="1" reason="Downtime Activities"/>
+  <award use="XP" name="First Night" type="0" change="1" reason="First Night"/>
+  <award use="XP" name="Good Roleplaying" type="0" change="1" reason="Good Roleplaying"/>
+  <award use="XP" name="Leadership" type="0" change="1" reason="Leadership"/>
+  <award use="PP" name="Storytelling" type="0" change="1" reason="Storytelling"/>
+  <award use="PP" name="Bookkeeping" type="0" change="1" reason="Bookkeeping"/>
+  <award use="PP" name="Narrating" type="0" change="1" reason="Narrating"/>
+  <award use="PP" name="Setup/Cleanup" type="0" change="1" reason="Setup/Cleanup"/>
+  <template name="Action and Rumor Report" text="Templates\Text\Action and Rumor Report.txt" rtf="Templates\RTF\Action and Rumor Report.rtf" html="Templates\HTML\Action and Rumor Report.html"/>
+  <template name="Changeling Character Sheet" sheet="yes" text="Templates\Text\Changeling.txt" rtf="Templates\RTF\Changeling.rtf" html="Templates\HTML\Changeling.html"/>
+  <template name="Character Equipment" text="Templates\Text\Character Equipment.txt" rtf="Templates\RTF\Character Equipment.rtf" html="Templates\HTML\Character Equipment.html"/>
+  <template name="Character Roster" text="Templates\Text\Character Roster.txt" rtf="Templates\RTF\Character Roster.rtf" html="Templates\HTML\Character Roster.html"/>
+  <template name="Demon Character Sheet" sheet="yes" text="Templates\Text\Demon.txt" rtf="Templates\RTF\Demon.rtf" html="Templates\HTML\Demon.html"/>
+  <template name="Experience History" text="Templates\Text\Experience History.txt" rtf="Templates\RTF\Experience History.rtf" html="Templates\HTML\Experience History.html"/>
+  <template name="Fera Character Sheet" sheet="yes" text="Templates\Text\Fera.txt" rtf="Templates\RTF\Fera.rtf" html="Templates\HTML\Fera.html"/>
+  <template name="Game Calendar" text="Templates\Text\Game Calendar.txt" rtf="Templates\RTF\Game Calendar.rtf" html="Templates\HTML\Game Calendar.html"/>
+  <template name="Hunter Character Sheet" sheet="yes" text="Templates\Text\Hunter.txt" rtf="Templates\RTF\Hunter.rtf" html="Templates\HTML\Hunter.html"/>
+  <template name="Influence Report" text="Templates\Text\Influence Report.txt" rtf="Templates\RTF\Influence Report.rtf" html="Templates\HTML\Influence Report.html"/>
+  <template name="Item Cards" text="Templates\Text\Item Cards.txt" rtf="Templates\RTF\Item Cards.rtf" html="Templates\HTML\Item Cards.html"/>
+  <template name="Kuei-Jin Character Sheet" sheet="yes" text="Templates\Text\Kuei-Jin.txt" rtf="Templates\RTF\Kuei-Jin.rtf" html="Templates\HTML\Kuei-Jin.html"/>
+  <template name="Location Cards" text="Templates\Text\Location Cards.txt" rtf="Templates\RTF\Location Cards.rtf" html="Templates\HTML\Location Cards.html"/>
+  <template name="Mage Character Sheet" sheet="yes" text="Templates\Text\Mage.txt" rtf="Templates\RTF\Mage.rtf" html="Templates\HTML\Mage.html"/>
+  <template name="Master Action Report" text="Templates\Text\Master Action Report.txt" rtf="Templates\RTF\Master Action Report.rtf" html="Templates\HTML\Master Action Report.html"/>
+  <template name="Master Rumor Report" text="Templates\Text\Master Rumor Report.txt" rtf="Templates\RTF\Master Rumor Report.rtf" html="Templates\HTML\Master Rumor Report.html"/>
+  <template name="Merits and Flaws Report" text="Templates\Text\Merits and Flaws Report.txt" rtf="Templates\RTF\Merits and Flaws Report.rtf" html="Templates\HTML\Merits and Flaws Report.html"/>
+  <template name="Mortal Character Sheet" sheet="yes" text="Templates\Text\Mortal.txt" rtf="Templates\RTF\Mortal.rtf" html="Templates\HTML\Mortal.html"/>
+  <template name="Mummy Character Sheet" sheet="yes" text="Templates\Text\Mummy.txt" rtf="Templates\RTF\Mummy.rtf" html="Templates\HTML\Mummy.html"/>
+  <template name="Player Point History" text="Templates\Text\Player Point History.txt" rtf="Templates\RTF\Player Point History.rtf" html="Templates\HTML\Player Point History.html"/>
+  <template name="Player Roster" text="Templates\Text\Player Roster.txt" rtf="Templates\RTF\Player Roster.rtf" html="Templates\HTML\Player Roster.html"/>
+  <template name="Plot Report" text="Templates\Text\Plot Report.txt" rtf="Templates\RTF\Plot Report.rtf" html="Templates\HTML\Plot Report.html"/>
+  <template name="Rote Cards" text="Templates\Text\Rote Cards.txt" rtf="Templates\RTF\Rote Cards.rtf" html="Templates\HTML\Rote Cards.html"/>
+  <template name="Search Report" text="Templates\Text\Search Report.txt" rtf="Templates\RTF\Search Report.rtf" html="Templates\HTML\Search Report.html"/>
+  <template name="Sign-In Sheet" text="Templates\Text\Sign-In Sheet.txt" rtf="Templates\RTF\Sign-In Sheet.rtf" html="Templates\HTML\Sign-In Sheet.html"/>
+  <template name="Statistics Report" text="Templates\Text\Statistics Report.txt" rtf="Templates\RTF\Statistics Report.rtf" html="Templates\HTML\Statistics Report.html"/>
+  <template name="Vampire Character Sheet" sheet="yes" text="Templates\Text\Vampire.txt" rtf="Templates\RTF\Vampire.rtf" html="Templates\HTML\Vampire.html"/>
+  <template name="Vampire Status Report" text="Templates\Text\Vampire Status Report.txt" rtf="Templates\RTF\Vampire Status Report.rtf" html="Templates\HTML\Vampire Status Report.html"/>
+  <template name="Various Character Sheet" sheet="yes" text="Templates\Text\Various.txt" rtf="Templates\RTF\Various.rtf" html="Templates\HTML\Various.html"/>
+  <template name="Werewolf Character Sheet" sheet="yes" text="Templates\Text\Werewolf.txt" rtf="Templates\RTF\Werewolf.rtf" html="Templates\HTML\Werewolf.html"/>
+  <template name="Wraith Character Sheet" sheet="yes" text="Templates\Text\Wraith.txt" rtf="Templates\RTF\Wraith.rtf" html="Templates\HTML\Wraith.html"/>
+  <player name="Alice" position="Player" status="Active" lastmodified="12:00:00 AM">
+    <experience unspent="0" earned="0"/>
+  </player>
+  <player name="Bob" id="PlayerID" email="Not an Email" phone="Not a Phone" position="Player" status="Active" lastmodified="1/1/2026 1:34:08 PM">
+    <experience unspent="0" earned="0"/>
+  </player>
+  <player name="Luke" id="123ABC" email="luke@haunteddolllovers.net" phone="555-555-5555" position="Storyteller" status="Active" lastmodified="1/1/2026 1:33:45 PM">
+    <experience unspent="5" earned="3">
+      <entry date="1/1/2026" change="10" type="0" reason="Testing" earned="10" unspent="10"/>
+      <entry date="1/1/2026" change="5" type="2" earned="5" unspent="10"/>
+      <entry date="1/1/2026" change="5" type="2" earned="5" unspent="10"/>
+      <entry date="1/1/2026" change="3" type="4" reason="Bookkeeping" earned="5" unspent="13"/>
+      <entry date="1/1/2026" change="8" type="5" reason="Bookkeeping" earned="5" unspent="8"/>
+      <entry date="1/1/2026" change="8" type="5" reason="Bookkeeping" earned="5" unspent="8"/>
+      <entry date="1/1/2026" change="1" type="6" reason="Setup/Cleanup is cool" earned="5" unspent="8"/>
+      <entry date="1/1/2026" change="1" type="0" reason="Storytelling" earned="6" unspent="9"/>
+      <entry date="1/1/2026" change="3" type="1" reason="Storytelling" earned="3" unspent="6"/>
+      <entry date="1/1/2026" change="1" type="3" reason="Storytelling" earned="3" unspent="5"/>
+    </experience>
+    <address>
+      <![CDATA[183 Unicorn Lane
+Unit 1
+Fantasyland, IA 55555-5555]]>
+    </address>
+    <notes>
+      <![CDATA[This is a player who's a storyteller, and who's marked as the HST.]]>
+    </notes>
+  </player>
+  <vampire name="Billy the Vampire" nature="Autocrat" demeanor="Autocrat" clan="Tremere" sect="Camarilla" sire="Billy the Vampire" generation="13" title="Chamberlain" blood="10" willpower="2" conscience="1" selfcontrol="1" courage="1" path="Path of Ecstacy" pathtraits="1" physicalmax="11" status="Active" startdate="1/1/2026 7:09:59 PM" lastmodified="1/1/2026 7:19:26 PM">
+    <experience unspent="0" earned="0">
+      <entry date="1/1/2026 7:09:59 PM" change="0" type="6" reason="Created 4/7/6 with 9 Abilities and 7 Backgrounds, using 3 Negative and 5 Free Traits" earned="0" unspent="0"/>
+    </experience>
+    <traitlist name="Physical" abc="yes" display="1">
+      <trait name="Enduring" val="2"/>
+      <trait name="Tenacious"/>
+      <trait name="Tireless"/>
+    </traitlist>
+    <traitlist name="Social" abc="yes" display="1">
+      <trait name="Beguiling"/>
+      <trait name="Dignified" val="2"/>
+      <trait name="Expressive" val="3"/>
+      <trait name="Manipulative"/>
+    </traitlist>
+    <traitlist name="Mental" abc="yes" display="1">
+      <trait name="Attentive"/>
+      <trait name="Determined" val="3"/>
+      <trait name="Inhumane" val="2"/>
+    </traitlist>
+    <traitlist name="Negative Physical" abc="yes" negative="yes" display="1"/>
+    <traitlist name="Negative Social" abc="yes" negative="yes" display="1">
+      <trait name="Haggard" val="2"/>
+    </traitlist>
+    <traitlist name="Negative Mental" abc="yes" negative="yes" display="1">
+      <trait name="Violent"/>
+    </traitlist>
+    <traitlist name="Status" abc="yes" display="1">
+      <trait name="Battle-Scarred"/>
+    </traitlist>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="Athletics" val="4"/>
+      <trait name="Bureaucracy"/>
+      <trait name="Empathy"/>
+      <trait name="Enigmas"/>
+      <trait name="Larceny"/>
+      <trait name="Rituals"/>
+    </traitlist>
+    <traitlist name="Influences" abc="yes" display="1"/>
+    <traitlist name="Backgrounds" abc="yes" display="1">
+      <trait name="Alternate Identity" val="3"/>
+      <trait name="Generation" val="2"/>
+      <trait name="Insight" val="2"/>
+    </traitlist>
+    <traitlist name="Health Levels" abc="no" display="1">
+      <trait name="Healthy" val="2"/>
+      <trait name="Bruised" val="3"/>
+      <trait name="Wounded" val="2"/>
+      <trait name="Incapacitated"/>
+      <trait name="Torpor"/>
+    </traitlist>
+    <traitlist name="Bonds" abc="yes" display="1">
+      <trait name="Billy the Vampire"/>
+    </traitlist>
+    <traitlist name="Miscellaneous" abc="no" display="1">
+      <trait name="Clan Status: Gangrel" val="2"/>
+      <trait name="Clan Status: Malkavian"/>
+      <trait name="Negative Status: Burnt Out"/>
+      <trait name="Negative Status: Casualty"/>
+      <trait name="Negative Status: Cherry"/>
+    </traitlist>
+    <traitlist name="Derangements" abc="yes" atomic="yes" negative="yes" display="5">
+      <trait name="Angelism" val="2"/>
+    </traitlist>
+    <traitlist name="Disciplines" abc="no" atomic="yes" display="5">
+      <trait name="Dominate: Mesmerism" val="3" note="basic"/>
+      <trait name="Dominate: Conditioning" val="6" note="int."/>
+    </traitlist>
+    <traitlist name="Rituals" abc="no" atomic="yes" display="5">
+      <trait name="Sabbat: Intermediate: Friend of the Trees" val="4"/>
+    </traitlist>
+    <traitlist name="Merits" abc="yes" atomic="yes" display="4"/>
+    <traitlist name="Flaws" abc="yes" atomic="yes" negative="yes" display="4"/>
+    <traitlist name="Equipment" abc="yes" display="1"/>
+    <traitlist name="Locations" abc="yes" atomic="yes" display="5"/>
+  </vampire>
+  <changeling name="Carry Changeling" seelie="Dandy" unseelie="Fiend" court="Midseason/Laurel" kith="Inanimae: New Item" seeming="Youngling" house="Beaumayn" threshold="Dauntain Doom: Black Magician" title="Countess" glamour="4" banality="3" willpower="2" physicalmax="27" player="Bob" status="Active" startdate="1/1/2026 7:10:37 PM" lastmodified="1/1/2026 7:18:46 PM">
+    <experience unspent="0" earned="0">
+      <entry date="1/1/2026 7:10:37 PM" change="0" type="6" reason="Created 8/27/8 with 103 Abilities and 12 Backgrounds, using 3 Negative and 30 Free Traits" earned="0" unspent="0"/>
+    </experience>
+    <traitlist name="Physical" abc="yes" display="1">
+      <trait name="Lithe"/>
+      <trait name="Stalwart" val="3"/>
+      <trait name="Tenacious" val="4"/>
+    </traitlist>
+    <traitlist name="Social" abc="yes" display="1">
+      <trait name="Alluring" val="7"/>
+      <trait name="Beguiling"/>
+      <trait name="Callous" val="2"/>
+      <trait name="Commanding" val="2"/>
+      <trait name="Compassionate" val="2"/>
+      <trait name="Cruel" val="2"/>
+      <trait name="Eloquent" val="2"/>
+      <trait name="Friendly"/>
+      <trait name="Gorgeous" val="2"/>
+      <trait name="Intense" val="2"/>
+      <trait name="Manipulative"/>
+      <trait name="Persuasive" val="2"/>
+      <trait name="Threatening"/>
+    </traitlist>
+    <traitlist name="Mental" abc="yes" display="1">
+      <trait name="Astute" val="2"/>
+      <trait name="Cunning"/>
+      <trait name="Disciplined"/>
+      <trait name="Insidious"/>
+      <trait name="Observant"/>
+      <trait name="Reflective"/>
+      <trait name="Shrewd"/>
+    </traitlist>
+    <traitlist name="Negative Physical" abc="yes" negative="yes" display="1"/>
+    <traitlist name="Negative Social" abc="yes" negative="yes" display="1">
+      <trait name="Ghastly"/>
+      <trait name="Repugnant" val="2"/>
+    </traitlist>
+    <traitlist name="Negative Mental" abc="yes" negative="yes" display="1"/>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="Academics" val="11"/>
+      <trait name="Animal Ken"/>
+      <trait name="Archery"/>
+      <trait name="Athletics" val="3"/>
+      <trait name="Awareness" val="3"/>
+      <trait name="Blindfighting"/>
+      <trait name="Brawl" val="2"/>
+      <trait name="Bureaucracy" val="3"/>
+      <trait name="Computer" val="4"/>
+      <trait name="Demolitions" val="4"/>
+      <trait name="Disguise" val="3"/>
+      <trait name="Dodge"/>
+      <trait name="Enigmas" val="3"/>
+      <trait name="Expression"/>
+      <trait name="Finance" val="5"/>
+      <trait name="Firearms" val="11"/>
+      <trait name="Intimidation" val="4"/>
+      <trait name="Kenning" val="4"/>
+      <trait name="Law" val="2"/>
+      <trait name="Medicine" val="5"/>
+      <trait name="Meditation"/>
+      <trait name="Melee" val="3"/>
+      <trait name="Mythlore" val="6"/>
+      <trait name="Occult"/>
+      <trait name="Performance"/>
+      <trait name="Repair" val="2"/>
+      <trait name="Science"/>
+      <trait name="Scrounge" val="3"/>
+      <trait name="Security" val="3"/>
+      <trait name="Stealth" val="3"/>
+      <trait name="Streetwise" val="2"/>
+      <trait name="Subterfuge"/>
+      <trait name="Survival" val="3"/>
+      <trait name="Throwing"/>
+    </traitlist>
+    <traitlist name="Influences" abc="yes" display="1"/>
+    <traitlist name="Backgrounds" abc="yes" display="1">
+      <trait name="Allies"/>
+      <trait name="Chimera"/>
+      <trait name="Contacts"/>
+      <trait name="Husk" val="2"/>
+      <trait name="Patron" val="2"/>
+      <trait name="Status" val="2"/>
+      <trait name="Trod" val="3"/>
+    </traitlist>
+    <traitlist name="Health Levels" abc="no" display="1">
+      <trait name="Healthy" val="2"/>
+      <trait name="Bruised" val="3"/>
+      <trait name="Wounded" val="2"/>
+      <trait name="Incapacitated"/>
+      <trait name="Mortally Wounded"/>
+    </traitlist>
+    <traitlist name="Status" abc="yes" display="1"/>
+    <traitlist name="Arts" abc="no" atomic="yes" display="5">
+      <trait name="Contempt: Mockery" val="3" note="basic"/>
+      <trait name="Contempt: Mockery" val="3" note="basic"/>
+      <trait name="Contempt: Disobedience" val="3" note="basic"/>
+      <trait name="Contempt: Insolence" val="6" note="int."/>
+      <trait name="Contempt: Devil's Advocate" val="6" note="int."/>
+      <trait name="Contempt: Condemnation" val="9" note="adv."/>
+    </traitlist>
+    <traitlist name="Realms" abc="no" atomic="yes" display="5">
+      <trait name="Scene: Closet" val="2"/>
+      <trait name="Scene: Bathroom" val="2"/>
+      <trait name="Scene: Guest Room" val="2"/>
+      <trait name="Scene: Ground Floor" val="2"/>
+      <trait name="Scene: House" val="2"/>
+    </traitlist>
+    <traitlist name="Merits" abc="yes" atomic="yes" display="4"/>
+    <traitlist name="Flaws" abc="yes" atomic="yes" negative="yes" display="4"/>
+    <traitlist name="Equipment" abc="yes" display="1"/>
+    <traitlist name="Locations" abc="yes" atomic="yes" display="5"/>
+  </changeling>
+  <demon name="Darryl Demon" house="Fiend" faction="Reconciler" nature="Arbitrator" demeanor="Bon Vivant" torment="3" faith="3" willpower="4" conscience="1" conviction="1" courage="1" physicalmax="12" status="Active" startdate="1/1/2026 7:11:20 PM" lastmodified="1/1/2026 7:22:12 PM">
+    <experience unspent="0" earned="0">
+      <entry date="1/1/2026 7:11:20 PM" change="0" type="6" reason="Created 12/8/10 with 106 Abilities and 19 Backgrounds, using 0 Negative and 30 Free Traits" earned="0" unspent="0"/>
+    </experience>
+    <traitlist name="Physical" abc="yes" display="1">
+      <trait name="Agile" val="2"/>
+      <trait name="Lithe" val="3"/>
+      <trait name="Quick" val="3"/>
+      <trait name="Robust" val="2"/>
+      <trait name="Tenacious" val="2"/>
+    </traitlist>
+    <traitlist name="Social" abc="yes" display="1">
+      <trait name="Charming"/>
+      <trait name="Diplomatic" val="2"/>
+      <trait name="Expressive"/>
+      <trait name="Intimidating"/>
+      <trait name="Threatening" val="3"/>
+    </traitlist>
+    <traitlist name="Mental" abc="yes" display="1">
+      <trait name="Analytical"/>
+      <trait name="Attentive" val="2"/>
+      <trait name="Disciplined" val="2"/>
+      <trait name="Insidious"/>
+      <trait name="Knowledgeable"/>
+      <trait name="Observant" val="2"/>
+      <trait name="Patient"/>
+    </traitlist>
+    <traitlist name="Negative Physical" abc="yes" negative="yes" display="1"/>
+    <traitlist name="Negative Social" abc="yes" negative="yes" display="1"/>
+    <traitlist name="Negative Mental" abc="yes" negative="yes" display="1"/>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="Academics" val="4"/>
+      <trait name="Archery"/>
+      <trait name="Awareness" val="2"/>
+      <trait name="Blindfighting" val="10"/>
+      <trait name="Bureaucracy" val="4"/>
+      <trait name="Crafts" val="2"/>
+      <trait name="Disguise" val="2"/>
+      <trait name="Dodge" val="3"/>
+      <trait name="Empathy"/>
+      <trait name="Expression" val="3"/>
+      <trait name="Finance" val="2"/>
+      <trait name="Firearms" val="6"/>
+      <trait name="Flight"/>
+      <trait name="Intimidation" val="7"/>
+      <trait name="Investigation" val="6"/>
+      <trait name="Law" val="5"/>
+      <trait name="Leadership" val="5"/>
+      <trait name="Linguistics" val="4"/>
+      <trait name="Lore: Mage" val="2"/>
+      <trait name="Meditation" val="2"/>
+      <trait name="Occult" val="5"/>
+      <trait name="Politics"/>
+      <trait name="Repair" val="6"/>
+      <trait name="Science"/>
+      <trait name="Security" val="8"/>
+      <trait name="Stealth" val="5"/>
+      <trait name="Survival"/>
+      <trait name="Throwing" val="6"/>
+      <trait name="Torture"/>
+    </traitlist>
+    <traitlist name="Influences" abc="yes" display="1"/>
+    <traitlist name="Backgrounds" abc="yes" display="1">
+      <trait name="Allies"/>
+      <trait name="Eminence" val="2"/>
+      <trait name="Followers"/>
+      <trait name="Influence" val="4"/>
+      <trait name="Legacy" val="3"/>
+      <trait name="Mentor" val="4"/>
+      <trait name="Resources"/>
+      <trait name="Retainers" val="3"/>
+    </traitlist>
+    <traitlist name="Health Levels" abc="no" display="1">
+      <trait name="Healthy" val="2"/>
+      <trait name="Bruised" val="3"/>
+      <trait name="Wounded" val="2"/>
+      <trait name="Incapacitated"/>
+      <trait name="Mortally Wounded"/>
+    </traitlist>
+    <traitlist name="Lores" abc="no" atomic="yes" display="5">
+      <trait name="Awakening: Find the Faithful" val="3" note="basic"/>
+      <trait name="Awakening: Cleanse" val="3" note="basic"/>
+      <trait name="Awakening: Heal" val="6" note="int."/>
+      <trait name="Awakening: Animate" val="6" note="int."/>
+      <trait name="Awakening: Restore life" val="9" note="adv."/>
+    </traitlist>
+    <traitlist name="Apocalyptic Form" abc="no" atomic="yes" display="5">
+      <trait name="Ellil, Winds: Supernatural Vision" val="0"/>
+      <trait name="Ellil, Winds: Wings" val="0"/>
+      <trait name="Ellil, Winds: Immune to Falling Damage" val="0"/>
+      <trait name="Ellil, Winds: Claws" val="0" note="torment"/>
+      <trait name="Ellil, Winds: Extra Actions" val="0" note="torment"/>
+    </traitlist>
+    <traitlist name="Merits" abc="yes" atomic="yes" display="4"/>
+    <traitlist name="Flaws" abc="yes" atomic="yes" negative="yes" display="4"/>
+    <traitlist name="Equipment" abc="yes" display="1"/>
+    <traitlist name="Locations" abc="yes" atomic="yes" display="5">
+      <trait name="Locale"/>
+    </traitlist>
+  </demon>
+  <fera name="Freddy Fera" nature="Barbarian" demeanor="Barbarian" fera="Kitsune" breed="Latrani" auspice="Theurge" rank="Tekhmet" pack="Freddy's Friends" position="Lantern" rage="3" gnosis="3" willpower="3" honor="0" temphonor="0" glory="0" tempglory="0" wisdom="0" tempwisdom="0" physicalmax="24" status="Active" startdate="1/1/2026 7:10:52 PM" lastmodified="1/1/2026 7:17:41 PM">
+    <experience unspent="0" earned="0">
+      <entry date="1/1/2026 7:10:52 PM" change="0" type="6" reason="Created 24/7/10 with 108 Abilities and 16 Backgrounds, using 10 Negative and 30 Free Traits" earned="0" unspent="0"/>
+    </experience>
+    <traitlist name="Physical" abc="yes" display="1">
+      <trait name="Aggressive"/>
+      <trait name="Athletic" val="2"/>
+      <trait name="Brawny" val="2"/>
+      <trait name="Deadly"/>
+      <trait name="Dexterous" val="3"/>
+      <trait name="Enduring" val="2"/>
+      <trait name="Energetic" val="2"/>
+      <trait name="Lithe"/>
+      <trait name="Nimble"/>
+      <trait name="Resilient" val="2"/>
+      <trait name="Savage"/>
+      <trait name="Tenacious" val="2"/>
+      <trait name="Tireless" val="2"/>
+      <trait name="Vigorous" val="2"/>
+    </traitlist>
+    <traitlist name="Social" abc="yes" display="1">
+      <trait name="Dignified"/>
+      <trait name="Elegant" val="2"/>
+      <trait name="Eloquent"/>
+      <trait name="Expressive" val="2"/>
+      <trait name="Friendly"/>
+    </traitlist>
+    <traitlist name="Mental" abc="yes" display="1">
+      <trait name="Insidious" val="2"/>
+      <trait name="Reflective" val="3"/>
+      <trait name="Vigilant" val="4"/>
+      <trait name="Wise"/>
+    </traitlist>
+    <traitlist name="Negative Physical" abc="yes" negative="yes" display="1"/>
+    <traitlist name="Negative Social" abc="yes" negative="yes" display="1">
+      <trait name="Haggard"/>
+    </traitlist>
+    <traitlist name="Negative Mental" abc="yes" negative="yes" display="1">
+      <trait name="Gullible" val="2"/>
+      <trait name="Impatient"/>
+      <trait name="Squeamish" val="3"/>
+      <trait name="Unstable" val="3"/>
+    </traitlist>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="Academics"/>
+      <trait name="Animal Ken" val="2"/>
+      <trait name="Archery" val="2"/>
+      <trait name="Athletics"/>
+      <trait name="Awareness" val="4"/>
+      <trait name="Blindfighting"/>
+      <trait name="Brawl"/>
+      <trait name="Crafts" val="2"/>
+      <trait name="Demolitions"/>
+      <trait name="Disguise"/>
+      <trait name="Dodge"/>
+      <trait name="Drive"/>
+      <trait name="Empathy"/>
+      <trait name="Enigmas" val="5"/>
+      <trait name="Etiquette" val="2"/>
+      <trait name="Expression"/>
+      <trait name="Fast-Draw" val="3"/>
+      <trait name="Finance" val="5"/>
+      <trait name="Firearms" val="3"/>
+      <trait name="Flight" val="3"/>
+      <trait name="Gambling"/>
+      <trait name="Gesture"/>
+      <trait name="Investigation" val="3"/>
+      <trait name="Iskakku" val="7"/>
+      <trait name="Larceny" val="2"/>
+      <trait name="Law" val="3"/>
+      <trait name="Linguistics"/>
+      <trait name="Mediation"/>
+      <trait name="Medicine"/>
+      <trait name="Meditation"/>
+      <trait name="Performance" val="5"/>
+      <trait name="Politics"/>
+      <trait name="Primal Urge" val="2"/>
+      <trait name="Repair" val="3"/>
+      <trait name="Ride" val="3"/>
+      <trait name="Rituals" val="4"/>
+      <trait name="Security"/>
+      <trait name="Stargazing" val="5"/>
+      <trait name="Stealth" val="2"/>
+      <trait name="Stickball" val="4"/>
+      <trait name="Streetwise" val="3"/>
+      <trait name="Subterfuge" val="3"/>
+      <trait name="Survival"/>
+      <trait name="Throwing" val="6"/>
+      <trait name="Torture" val="3"/>
+    </traitlist>
+    <traitlist name="Influences" abc="yes" display="1"/>
+    <traitlist name="Backgrounds" abc="yes" display="1">
+      <trait name="Ancestors" val="2"/>
+      <trait name="Colony" val="3"/>
+      <trait name="Past Life" val="2"/>
+      <trait name="Plague" val="2"/>
+      <trait name="Remora"/>
+      <trait name="Resources"/>
+      <trait name="Sempai"/>
+      <trait name="Totem"/>
+      <trait name="Trinket" val="2"/>
+      <trait name="Wallow"/>
+    </traitlist>
+    <traitlist name="Health Levels" abc="no" display="1">
+      <trait name="Healthy" val="2"/>
+      <trait name="Bruised" val="3"/>
+      <trait name="Wounded" val="2"/>
+      <trait name="Incapacitated"/>
+      <trait name="Mortally Wounded"/>
+    </traitlist>
+    <traitlist name="Features" abc="yes" atomic="yes" display="5">
+      <trait name="Scar: Collapsed Lung"/>
+    </traitlist>
+    <traitlist name="Gifts" abc="no" atomic="yes" display="5"/>
+    <traitlist name="Rites" abc="no" atomic="yes" display="5"/>
+    <traitlist name="Honor" abc="yes" display="1"/>
+    <traitlist name="Glory" abc="yes" display="1"/>
+    <traitlist name="Wisdom" abc="yes" display="1"/>
+    <traitlist name="Merits" abc="yes" atomic="yes" display="4"/>
+    <traitlist name="Flaws" abc="yes" atomic="yes" negative="yes" display="4"/>
+    <traitlist name="Equipment" abc="yes" display="1"/>
+    <traitlist name="Location" abc="yes" atomic="yes" display="5"/>
+  </fera>
+  <hunter name="Hank Hunter" creed="Judge" nature="Autocrat" demeanor="Drunk Uncle" camp="Liberal" handle="Hanko" conviction="3" willpower="3" mercy="0" vision="0" zeal="0" physicalmax="11" player="Alice" status="Active" startdate="1/1/2026 7:10:42 PM" lastmodified="1/1/2026 7:22:57 PM">
+    <experience unspent="0" earned="0">
+      <entry date="1/1/2026 7:10:42 PM" change="0" type="6" reason="Created 5/6/9 with 134 Abilities and 11 Backgrounds, using 10 Negative and 30 Free Traits" earned="0" unspent="0"/>
+    </experience>
+    <traitlist name="Physical" abc="yes" display="1">
+      <trait name="Athletic"/>
+      <trait name="Dexterous"/>
+      <trait name="Quick"/>
+      <trait name="Resilient"/>
+      <trait name="Wiry"/>
+    </traitlist>
+    <traitlist name="Social" abc="yes" display="1">
+      <trait name="Cruel" val="3"/>
+      <trait name="Genial"/>
+      <trait name="Seductive" val="2"/>
+    </traitlist>
+    <traitlist name="Mental" abc="yes" display="1">
+      <trait name="Clever"/>
+      <trait name="Determined"/>
+      <trait name="Inhumane"/>
+      <trait name="Knowledgeable" val="3"/>
+      <trait name="Shrewd" val="3"/>
+    </traitlist>
+    <traitlist name="Negative Physical" abc="yes" negative="yes" display="1">
+      <trait name="Clumsy"/>
+      <trait name="Cowardly"/>
+      <trait name="Lethargic"/>
+      <trait name="Soft"/>
+    </traitlist>
+    <traitlist name="Negative Social" abc="yes" negative="yes" display="1">
+      <trait name="Dull" val="3"/>
+    </traitlist>
+    <traitlist name="Negative Mental" abc="yes" negative="yes" display="1">
+      <trait name="Gullible"/>
+      <trait name="Submissive" val="2"/>
+    </traitlist>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="Academics" val="5"/>
+      <trait name="Archery" val="6"/>
+      <trait name="Athletics" val="6"/>
+      <trait name="Awareness" val="6"/>
+      <trait name="Blindfighting" val="5"/>
+      <trait name="Brawl" val="6"/>
+      <trait name="Bureaucracy" val="6"/>
+      <trait name="Computer"/>
+      <trait name="Demolitions"/>
+      <trait name="Disguise"/>
+      <trait name="Empathy" val="5"/>
+      <trait name="Endurance"/>
+      <trait name="Etiquette" val="2"/>
+      <trait name="Expression" val="2"/>
+      <trait name="Flight" val="5"/>
+      <trait name="Intimidation" val="2"/>
+      <trait name="Intuition" val="2"/>
+      <trait name="Investigation" val="2"/>
+      <trait name="Law" val="3"/>
+      <trait name="Leadership" val="5"/>
+      <trait name="Linguistics" val="2"/>
+      <trait name="Lore: Rot" val="2"/>
+      <trait name="Meditation" val="3"/>
+      <trait name="Occult" val="8"/>
+      <trait name="Performance" val="5"/>
+      <trait name="Poison"/>
+      <trait name="Repair" val="7"/>
+      <trait name="Science" val="5"/>
+      <trait name="Security" val="6"/>
+      <trait name="Stealth" val="3"/>
+      <trait name="Streetwise" val="8"/>
+      <trait name="Subterfuge" val="4"/>
+      <trait name="Survival"/>
+      <trait name="Throwing" val="3"/>
+      <trait name="Tolerance"/>
+      <trait name="Traps" val="3"/>
+    </traitlist>
+    <traitlist name="Influences" abc="yes" display="1"/>
+    <traitlist name="Backgrounds" abc="yes" display="1">
+      <trait name="Iron Willed"/>
+      <trait name="Pawn" val="2"/>
+      <trait name="Retainers"/>
+      <trait name="Soulmate" val="7"/>
+    </traitlist>
+    <traitlist name="Health Levels" abc="no" display="1">
+      <trait name="Healthy" val="2"/>
+      <trait name="Bruised" val="3"/>
+      <trait name="Wounded" val="2"/>
+      <trait name="Incapacitated"/>
+      <trait name="Mortally Wounded"/>
+    </traitlist>
+    <traitlist name="Derangements" abc="yes" atomic="yes" negative="yes" display="5"/>
+    <traitlist name="Edges" abc="no" atomic="yes" display="5"/>
+    <traitlist name="Merits" abc="yes" atomic="yes" display="4"/>
+    <traitlist name="Flaws" abc="yes" atomic="yes" negative="yes" display="4"/>
+    <traitlist name="Equipment" abc="yes" display="1">
+      <trait name="Special Item" note="+4, 3 Armor Levels, Loud"/>
+    </traitlist>
+    <traitlist name="Locations" abc="yes" atomic="yes" display="5"/>
+  </hunter>
+  <kueijin name="Kurt Kuei-Jin" nature="Analyst" demeanor="Autocrat" dharma="Path of a Thousand Whispers" balance="Balance" direction="East" station="Minister" poarchetype="Legalist" hun="1" po="3" yinchi="1" yangchi="1" demonchi="1" dharmatraits="1" willpower="1" physicalmax="17" status="Active" startdate="1/1/2026 7:11:05 PM" lastmodified="1/1/2026 7:17:00 PM">
+    <experience unspent="0" earned="0">
+      <entry date="1/1/2026 7:11:05 PM" change="0" type="6" reason="Created 8/13/17 with 101 Abilities and 20 Backgrounds, using 4 Negative and 30 Free Traits" earned="0" unspent="0"/>
+    </experience>
+    <traitlist name="Physical" abc="yes" display="1">
+      <trait name="Energetic"/>
+      <trait name="Lithe"/>
+      <trait name="Rugged" val="2"/>
+      <trait name="Savage" val="3"/>
+      <trait name="Vigorous"/>
+    </traitlist>
+    <traitlist name="Social" abc="yes" display="1">
+      <trait name="Commanding"/>
+      <trait name="Cruel" val="4"/>
+      <trait name="Elegant" val="3"/>
+      <trait name="Eloquent"/>
+      <trait name="Friendly" val="2"/>
+      <trait name="Genial"/>
+      <trait name="Intimidating"/>
+    </traitlist>
+    <traitlist name="Mental" abc="yes" display="1">
+      <trait name="Analytical"/>
+      <trait name="Cunning"/>
+      <trait name="Depraved" val="3"/>
+      <trait name="Insightful" val="3"/>
+      <trait name="Rational" val="2"/>
+      <trait name="Reflective" val="3"/>
+      <trait name="Shrewd"/>
+      <trait name="Wise" val="3"/>
+    </traitlist>
+    <traitlist name="Negative Physical" abc="yes" negative="yes" display="1">
+      <trait name="Puny"/>
+    </traitlist>
+    <traitlist name="Negative Social" abc="yes" negative="yes" display="1"/>
+    <traitlist name="Negative Mental" abc="yes" negative="yes" display="1">
+      <trait name="Submissive" val="3"/>
+    </traitlist>
+    <traitlist name="Status" abc="yes" display="1"/>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="Academics" val="3"/>
+      <trait name="Animal Ken" val="2"/>
+      <trait name="Archery" val="4"/>
+      <trait name="Athletics" val="2"/>
+      <trait name="Awareness" val="2"/>
+      <trait name="Blindfighting"/>
+      <trait name="Brawl"/>
+      <trait name="Bureaucracy"/>
+      <trait name="Computer" val="7"/>
+      <trait name="Crafts" val="3"/>
+      <trait name="Demolitions" val="4"/>
+      <trait name="Drive" val="3"/>
+      <trait name="Empathy"/>
+      <trait name="Etiquette" val="2"/>
+      <trait name="Expression" val="2"/>
+      <trait name="Firearms" val="3"/>
+      <trait name="Flight"/>
+      <trait name="Intimidation" val="4"/>
+      <trait name="Law"/>
+      <trait name="Linguistics"/>
+      <trait name="Lore: Kuei-Jin"/>
+      <trait name="Medicine" val="6"/>
+      <trait name="Meditation" val="2"/>
+      <trait name="Melee" val="3"/>
+      <trait name="Occult" val="5"/>
+      <trait name="Performance" val="5"/>
+      <trait name="Politics" val="5"/>
+      <trait name="Science" val="4"/>
+      <trait name="Scrounge" val="3"/>
+      <trait name="Security" val="2"/>
+      <trait name="Stealth" val="4"/>
+      <trait name="Streetwise" val="4"/>
+      <trait name="Subterfuge" val="3"/>
+      <trait name="Survival" val="3"/>
+      <trait name="Throwing" val="3"/>
+    </traitlist>
+    <traitlist name="Influences" abc="yes" display="1"/>
+    <traitlist name="Backgrounds" abc="yes" display="1">
+      <trait name="Allies" val="7"/>
+      <trait name="Contacts"/>
+      <trait name="Fame"/>
+      <trait name="Horoscope" val="2"/>
+      <trait name="Jade Talisman"/>
+      <trait name="Retainers"/>
+      <trait name="Rites" val="7"/>
+    </traitlist>
+    <traitlist name="Health Levels" abc="no" display="1">
+      <trait name="Healthy" val="2"/>
+      <trait name="Bruised" val="3"/>
+      <trait name="Wounded" val="2"/>
+      <trait name="Incapacitated"/>
+      <trait name="Torpor"/>
+    </traitlist>
+    <traitlist name="Guanxi" abc="yes" display="1">
+      <trait name="Kurt Kuei-Jin"/>
+    </traitlist>
+    <traitlist name="Disciplines" abc="no" atomic="yes" display="5">
+      <trait name="Blood Shintai: Permeate" val="3" note="basic"/>
+      <trait name="Blood Shintai: Blood Atemi" val="3" note="basic"/>
+      <trait name="Blood Shintai: Flow Like Blood" val="6" note="int."/>
+      <trait name="Blood Shintai: Bloodlash" val="6" note="int."/>
+      <trait name="Blood Shintai: Blood Awakening" val="9" note="adv."/>
+    </traitlist>
+    <traitlist name="Rites" abc="no" atomic="yes" display="5">
+      <trait name="Devil-Tiger Li: Ebon Wardings" val="2" note="basic"/>
+      <trait name="Devil-Tiger Li: Ebon Wardings" val="2" note="basic"/>
+    </traitlist>
+    <traitlist name="Merits" abc="yes" atomic="yes" display="4"/>
+    <traitlist name="Flaws" abc="yes" atomic="yes" negative="yes" display="4"/>
+    <traitlist name="Equipment" abc="yes" display="1"/>
+    <traitlist name="Locations" abc="yes" atomic="yes" display="5"/>
+  </kueijin>
+  <mage name="Mark Mage" nature="Au Courant" demeanor="Avant-Garde" essence="Primordial" tradition="Euthanatos" cabal="Mark's Guys" rank="Master" faction="Chaoticians" willpower="5" arete="4" quintessence="6" paradox="3" physicalmax="19" status="Active" startdate="1/1/2026 7:10:22 PM" lastmodified="1/1/2026 7:20:28 PM">
+    <experience unspent="0" earned="0">
+      <entry date="1/1/2026 7:10:22 PM" change="0" type="6" reason="Created 19/10/7 with 102 Abilities and 20 Backgrounds, using 3 Negative and 30 Free Traits" earned="0" unspent="0"/>
+    </experience>
+    <traitlist name="Physical" abc="yes" display="1">
+      <trait name="Agile"/>
+      <trait name="Brawny" val="2"/>
+      <trait name="Deadly"/>
+      <trait name="Enduring" val="5"/>
+      <trait name="Lithe"/>
+      <trait name="Quick"/>
+      <trait name="Robust" val="2"/>
+      <trait name="Stalwart"/>
+      <trait name="Steady"/>
+      <trait name="Tireless" val="2"/>
+      <trait name="Vicious" val="2"/>
+    </traitlist>
+    <traitlist name="Social" abc="yes" display="1">
+      <trait name="Charismatic" val="3"/>
+      <trait name="Charming"/>
+      <trait name="Genial"/>
+      <trait name="Magnetic" val="3"/>
+      <trait name="Threatening" val="2"/>
+    </traitlist>
+    <traitlist name="Mental" abc="yes" display="1">
+      <trait name="Alert" val="4"/>
+      <trait name="Depraved"/>
+      <trait name="Flexible" val="2"/>
+    </traitlist>
+    <traitlist name="Negative Physical" abc="yes" negative="yes" display="1">
+      <trait name="Frail" val="2"/>
+      <trait name="New Item"/>
+    </traitlist>
+    <traitlist name="Negative Social" abc="yes" negative="yes" display="1"/>
+    <traitlist name="Negative Mental" abc="yes" negative="yes" display="1"/>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="Academics" val="3"/>
+      <trait name="Acting" val="3"/>
+      <trait name="Awareness" val="2"/>
+      <trait name="Biotech" val="2"/>
+      <trait name="Blindfighting" val="3"/>
+      <trait name="Brawl"/>
+      <trait name="Computer"/>
+      <trait name="Construct Politics" val="3"/>
+      <trait name="Cosmology" val="5"/>
+      <trait name="Culture"/>
+      <trait name="Disguise" val="3"/>
+      <trait name="Do" val="5"/>
+      <trait name="Dodge" val="2"/>
+      <trait name="Drive"/>
+      <trait name="Empathy"/>
+      <trait name="Energy Weapons" val="6"/>
+      <trait name="Etiquette" val="2"/>
+      <trait name="Expression" val="3"/>
+      <trait name="Firearms" val="3"/>
+      <trait name="Instruction" val="2"/>
+      <trait name="Interrogation"/>
+      <trait name="Intimidation" val="3"/>
+      <trait name="Intuition" val="2"/>
+      <trait name="Jury-Rig"/>
+      <trait name="Law" val="3"/>
+      <trait name="Leadership" val="2"/>
+      <trait name="Media" val="2"/>
+      <trait name="Medicine" val="3"/>
+      <trait name="Meditation" val="3"/>
+      <trait name="Negotiation"/>
+      <trait name="Networking" val="3"/>
+      <trait name="Newspeak" val="2"/>
+      <trait name="Pilot" val="2"/>
+      <trait name="Power-Brokering" val="2"/>
+      <trait name="Propaganda"/>
+      <trait name="Research"/>
+      <trait name="Science"/>
+      <trait name="Scrounge" val="4"/>
+      <trait name="Streetwise" val="3"/>
+      <trait name="Subterfuge" val="2"/>
+      <trait name="Survival"/>
+      <trait name="Technology" val="3"/>
+      <trait name="Terrorism"/>
+      <trait name="Torture" val="3"/>
+    </traitlist>
+    <traitlist name="Influences" abc="yes" display="1"/>
+    <traitlist name="Backgrounds" abc="yes" display="1">
+      <trait name="Allies" val="2"/>
+      <trait name="Avatar" val="3"/>
+      <trait name="Blessing"/>
+      <trait name="Construct"/>
+      <trait name="Devices" val="2"/>
+      <trait name="Legend"/>
+      <trait name="Mentor"/>
+      <trait name="Node" val="2"/>
+      <trait name="Past Lives" val="3"/>
+      <trait name="Sanctum"/>
+      <trait name="Wonder" val="3"/>
+    </traitlist>
+    <traitlist name="Health Levels" abc="no" display="1">
+      <trait name="Healthy" val="2"/>
+      <trait name="Bruised" val="3"/>
+      <trait name="Wounded" val="2"/>
+      <trait name="Incapacitated"/>
+      <trait name="Mortally Wounded"/>
+    </traitlist>
+    <traitlist name="Resonance" abc="yes" display="1">
+      <trait name="Static"/>
+    </traitlist>
+    <traitlist name="Reputation" abc="yes" display="1">
+      <trait name="Devoted"/>
+    </traitlist>
+    <traitlist name="Spheres" abc="no" atomic="yes" display="5">
+      <trait name="Matter: Apprentice" val="5" note="basic"/>
+      <trait name="Matter: Initiate" val="5" note="basic"/>
+      <trait name="Matter: Disciple" val="10" note="int."/>
+      <trait name="Matter: Adept" val="10" note="int."/>
+      <trait name="Matter: Master" val="15" note="adv."/>
+    </traitlist>
+    <traitlist name="Rotes" abc="yes" atomic="yes" display="5">
+      <trait name="Rite Rote" note="(Lv. 3)"/>
+    </traitlist>
+    <traitlist name="Merits" abc="yes" atomic="yes" display="4"/>
+    <traitlist name="Flaws" abc="yes" atomic="yes" negative="yes" display="4"/>
+    <traitlist name="Equipment" abc="yes" display="1"/>
+    <traitlist name="Locations" abc="yes" atomic="yes" display="5"/>
+  </mage>
+  <mummy name="Matthew Mummy" amenti="Sefekhi" nature="Avant-Garde" demeanor="Arbitrator" willpower="5" sekhem="1" balance="1" memory="1" integrity="1" joy="1" ba="5" ka="5" physicalmax="17" player="Bob" status="Active" id="123" startdate="1/1/2026 7:11:14 PM" lastmodified="1/1/2026 7:12:45 PM">
+    <experience unspent="0" earned="0">
+      <entry date="1/1/2026 7:11:14 PM" change="0" type="6" reason="Created 8/15/17 with 100 Abilities and 25 Backgrounds, using 10 Negative and 30 Free Traits" earned="0" unspent="0"/>
+    </experience>
+    <traitlist name="Physical" abc="yes" display="1">
+      <trait name="Brawny"/>
+      <trait name="Ferocious"/>
+      <trait name="Lithe" val="2"/>
+      <trait name="Quick"/>
+      <trait name="Robust"/>
+      <trait name="Tough" val="2"/>
+    </traitlist>
+    <traitlist name="Social" abc="yes" display="1">
+      <trait name="Callous"/>
+      <trait name="Dignified" val="4"/>
+      <trait name="Elegant"/>
+      <trait name="Expressive"/>
+      <trait name="Friendly"/>
+      <trait name="Gorgeous" val="2"/>
+      <trait name="Ingratiating"/>
+      <trait name="Intense"/>
+      <trait name="Intimidating" val="3"/>
+    </traitlist>
+    <traitlist name="Mental" abc="yes" display="1">
+      <trait name="Alert" val="2"/>
+      <trait name="Calm" val="3"/>
+      <trait name="Clever"/>
+      <trait name="Determined"/>
+      <trait name="Insidious"/>
+      <trait name="Observant" val="2"/>
+      <trait name="Rational" val="3"/>
+      <trait name="Wise" val="4"/>
+    </traitlist>
+    <traitlist name="Negative Physical" abc="yes" negative="yes" display="1">
+      <trait name="Frail" val="3"/>
+    </traitlist>
+    <traitlist name="Negative Social" abc="yes" negative="yes" display="1">
+      <trait name="Condescending"/>
+      <trait name="Haggard" val="3"/>
+      <trait name="Obnoxious"/>
+      <trait name="Shy"/>
+    </traitlist>
+    <traitlist name="Negative Mental" abc="yes" negative="yes" display="1">
+      <trait name="Warped"/>
+    </traitlist>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="Animal Ken"/>
+      <trait name="Archery"/>
+      <trait name="Athletics"/>
+      <trait name="Awareness" val="2"/>
+      <trait name="Blindfighting" val="3"/>
+      <trait name="Brawl" val="5"/>
+      <trait name="Computer"/>
+      <trait name="Cosmology"/>
+      <trait name="Crafts" val="3"/>
+      <trait name="Demolitions" val="3"/>
+      <trait name="Disguise" val="2"/>
+      <trait name="Dodge"/>
+      <trait name="Drive" val="6"/>
+      <trait name="Empathy" val="3"/>
+      <trait name="Etiquette" val="5"/>
+      <trait name="Expression, Kipu" val="4"/>
+      <trait name="Firearms"/>
+      <trait name="History" val="2"/>
+      <trait name="Intimidation"/>
+      <trait name="Law" val="3"/>
+      <trait name="Leadership" val="5"/>
+      <trait name="Linguistics" val="5"/>
+      <trait name="Medicine" val="3"/>
+      <trait name="Meditation" val="3"/>
+      <trait name="Melee" val="4"/>
+      <trait name="Metaphysics" val="2"/>
+      <trait name="Occult"/>
+      <trait name="Psychology" val="2"/>
+      <trait name="Repair"/>
+      <trait name="Riding" val="6"/>
+      <trait name="Science" val="4"/>
+      <trait name="Scrounge" val="4"/>
+      <trait name="Security"/>
+      <trait name="Stealth" val="2"/>
+      <trait name="Streetwise"/>
+      <trait name="Thanatology"/>
+      <trait name="Throwing"/>
+      <trait name="Torture" val="5"/>
+    </traitlist>
+    <traitlist name="Influences" abc="yes" display="1">
+      <trait name="Espionage"/>
+      <trait name="High Society" val="3"/>
+    </traitlist>
+    <traitlist name="Humanity" abc="yes" display="1">
+      <trait name="Generous" val="4"/>
+    </traitlist>
+    <traitlist name="Status" abc="yes" display="1">
+      <trait name="Divine" val="3"/>
+    </traitlist>
+    <traitlist name="Backgrounds" abc="yes" display="1">
+      <trait name="Allies"/>
+      <trait name="Arcane" val="2"/>
+      <trait name="Ayllu" val="3"/>
+      <trait name="Contacts" val="3"/>
+      <trait name="Fame" val="5"/>
+      <trait name="Influence" val="2"/>
+      <trait name="Ka" val="2"/>
+      <trait name="Legacy" val="2"/>
+      <trait name="Mentor"/>
+      <trait name="Resources" val="3"/>
+      <trait name="Retainers"/>
+    </traitlist>
+    <traitlist name="Health Levels" abc="no" display="1">
+      <trait name="Healthy" val="2"/>
+      <trait name="Bruised" val="3"/>
+      <trait name="Wounded" val="2"/>
+      <trait name="Incapacitated"/>
+      <trait name="Mortally Wounded"/>
+      <trait name="Dead" val="2"/>
+    </traitlist>
+    <traitlist name="Hekau" abc="no" atomic="yes" display="5">
+      <trait name="Alchemy: First Basic Path" val="3"/>
+      <trait name="Alchemy: Second Basic Path" val="3"/>
+      <trait name="Celestial: Second Basic Path" val="3"/>
+      <trait name="Nomenclature: First Basic Path" val="3"/>
+    </traitlist>
+    <traitlist name="Spells" abc="no" atomic="yes" display="5">
+      <trait name="Alchemy: Cloud of Smoke" note="basic"/>
+      <trait name="Celestial: Becalm" note="basic"/>
+      <trait name="Celestial: Book of Thoth" note="basic"/>
+      <trait name="Celestial: Weather Whispers" note="basic"/>
+    </traitlist>
+    <traitlist name="Rituals" abc="no" atomic="yes" display="5">
+      <trait name="Celestial: Grip the Water" note="basic"/>
+      <trait name="Celestial: Hiding the Stars" note="basic"/>
+      <trait name="Celestial: Intermediate Weather Magic" val="3" note="int."/>
+    </traitlist>
+    <traitlist name="Merits" abc="yes" atomic="yes" display="4">
+      <trait name="Ambidextrous"/>
+    </traitlist>
+    <traitlist name="Flaws" abc="yes" atomic="yes" negative="yes" display="4">
+      <trait name="Addiction" val="1-3"/>
+      <trait name="Bad Sight" val="1-3"/>
+    </traitlist>
+    <traitlist name="Equipment" abc="yes" display="1">
+      <trait name="Armor-Piercing Ammo [Clip of 10]"/>
+    </traitlist>
+    <traitlist name="Locations" abc="yes" atomic="yes" display="5"/>
+    <inheritance>
+      <![CDATA[Inheritance]]>
+    </inheritance>
+    <biography>
+      <![CDATA[From Mummy World]]>
+    </biography>
+    <notes>
+      <![CDATA[A Note]]>
+    </notes>
+  </mummy>
+  <mortal name="Maya Mortal" nature="Arbitrator" demeanor="Autocrat" motivation="Fun" association="Arcanum" regnant="Mark Mage" title="Queen" willpower="2" humanity="1" conscience="1" selfcontrol="1" courage="1" blood="0" truefaith="0" physicalmax="20" player="Bob" status="Active" startdate="1/1/2026 7:10:47 PM" npc="yes" lastmodified="1/1/2026 7:13:22 PM">
+    <experience unspent="0" earned="0">
+      <entry date="1/1/2026 7:10:47 PM" change="0" type="6" reason="Created 7/20/3 with 110 Abilities and 24 Backgrounds, using 9 Negative and 30 Free Traits" earned="0" unspent="0"/>
+    </experience>
+    <traitlist name="Physical" abc="yes" display="1">
+      <trait name="Deadly" val="3"/>
+      <trait name="Dexterous" val="2"/>
+      <trait name="Ferocious"/>
+      <trait name="Resilient"/>
+    </traitlist>
+    <traitlist name="Social" abc="yes" display="1">
+      <trait name="Callous"/>
+      <trait name="Commanding"/>
+      <trait name="Cruel"/>
+      <trait name="Fearsome" val="2"/>
+      <trait name="Friendly"/>
+      <trait name="Gorgeous"/>
+      <trait name="Ingratiating" val="3"/>
+      <trait name="Intense" val="4"/>
+      <trait name="Persuasive"/>
+      <trait name="Witty" val="5"/>
+    </traitlist>
+    <traitlist name="Mental" abc="yes" display="1">
+      <trait name="Intuitive"/>
+      <trait name="Wily"/>
+      <trait name="Wise"/>
+    </traitlist>
+    <traitlist name="Negative Physical" abc="yes" negative="yes" display="1">
+      <trait name="Docile"/>
+    </traitlist>
+    <traitlist name="Negative Social" abc="yes" negative="yes" display="1">
+      <trait name="Callous" val="3"/>
+      <trait name="Condescending" val="2"/>
+      <trait name="Tactless"/>
+    </traitlist>
+    <traitlist name="Negative Mental" abc="yes" negative="yes" display="1">
+      <trait name="Oblivious"/>
+      <trait name="Warped"/>
+    </traitlist>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="Academics" val="2"/>
+      <trait name="Animal Affinity"/>
+      <trait name="Archery" val="12"/>
+      <trait name="Athletics" val="5"/>
+      <trait name="Awareness"/>
+      <trait name="Blindfighting" val="2"/>
+      <trait name="Brawl"/>
+      <trait name="Bureaucracy" val="5"/>
+      <trait name="Computer" val="2"/>
+      <trait name="Cosmology" val="2"/>
+      <trait name="Crafts" val="2"/>
+      <trait name="Disguise" val="3"/>
+      <trait name="Dodge" val="2"/>
+      <trait name="Drive" val="3"/>
+      <trait name="Electronics" val="3"/>
+      <trait name="Empathy" val="2"/>
+      <trait name="Enigmas"/>
+      <trait name="Finance" val="3"/>
+      <trait name="Firearms" val="3"/>
+      <trait name="Flight" val="7"/>
+      <trait name="History" val="4"/>
+      <trait name="Intimidation"/>
+      <trait name="Law" val="6"/>
+      <trait name="Leadership" val="3"/>
+      <trait name="Linguistics"/>
+      <trait name="Lore: Garou"/>
+      <trait name="Medical Knowledge"/>
+      <trait name="Melee" val="3"/>
+      <trait name="Occult"/>
+      <trait name="Repair" val="3"/>
+      <trait name="Science"/>
+      <trait name="Scrounge" val="7"/>
+      <trait name="Security"/>
+      <trait name="Sleight of Hand" val="2"/>
+      <trait name="Sniping"/>
+      <trait name="Stealth" val="2"/>
+      <trait name="Steward" val="2"/>
+      <trait name="Streetwise" val="2"/>
+      <trait name="Survival"/>
+      <trait name="Theology" val="2"/>
+      <trait name="Throwing"/>
+      <trait name="Torture" val="2"/>
+    </traitlist>
+    <traitlist name="Influences" abc="yes" display="1"/>
+    <traitlist name="Backgrounds" abc="yes" display="1">
+      <trait name="Arcane" val="2"/>
+      <trait name="Arsenal"/>
+      <trait name="Artifact" val="2"/>
+      <trait name="Contacts"/>
+      <trait name="Destiny" val="2"/>
+      <trait name="Fame" val="2"/>
+      <trait name="Familiar" val="2"/>
+      <trait name="Guide" val="3"/>
+      <trait name="Mana-Pool" val="5"/>
+      <trait name="Rank" val="2"/>
+      <trait name="Retainers"/>
+      <trait name="Sanctuary"/>
+    </traitlist>
+    <traitlist name="Health Levels" abc="no" display="1">
+      <trait name="Healthy" val="2"/>
+      <trait name="Bruised" val="3"/>
+      <trait name="Wounded" val="2"/>
+      <trait name="Incapacitated"/>
+      <trait name="Mortally Wounded"/>
+    </traitlist>
+    <traitlist name="Humanity" abc="yes" display="1"/>
+    <traitlist name="Derangements" abc="yes" atomic="yes" negative="yes" display="5">
+      <trait name="Amnesia" val="2"/>
+    </traitlist>
+    <traitlist name="Numina" abc="no" atomic="yes" display="5"/>
+    <traitlist name="Merits" abc="yes" atomic="yes" display="4"/>
+    <traitlist name="Flaws" abc="yes" atomic="yes" negative="yes" display="4"/>
+    <traitlist name="Equipment" abc="yes" display="1"/>
+    <traitlist name="Locations" abc="yes" atomic="yes" display="5"/>
+  </mortal>
+  <various name="Some Various Guy" physicalmax="11" status="Active" startdate="1/1/2026 7:11:31 PM" npc="yes" lastmodified="1/1/2026 7:13:32 PM">
+    <experience unspent="0" earned="0">
+      <entry date="1/1/2026 7:11:31 PM" change="0" type="6" reason="Created 11/6/9 with 102 Abilities and 30 Backgrounds, using 3 Negative and 30 Free Traits" earned="0" unspent="0"/>
+    </experience>
+    <traitlist name="Tempers" abc="yes" display="2">
+      <trait name="Essence"/>
+      <trait name="Gnosis"/>
+      <trait name="Rage"/>
+      <trait name="Willpower"/>
+    </traitlist>
+    <traitlist name="Physical" abc="yes" display="1">
+      <trait name="Athletic"/>
+      <trait name="Ferocious"/>
+      <trait name="Nimble"/>
+      <trait name="Quick" val="2"/>
+      <trait name="Stalwart"/>
+      <trait name="Tenacious"/>
+      <trait name="Vigorous" val="2"/>
+      <trait name="Wiry" val="2"/>
+    </traitlist>
+    <traitlist name="Social" abc="yes" display="1">
+      <trait name="Callous"/>
+      <trait name="Cruel"/>
+      <trait name="Empathetic"/>
+      <trait name="Genial"/>
+      <trait name="Threatening" val="2"/>
+    </traitlist>
+    <traitlist name="Mental" abc="yes" display="1">
+      <trait name="Dedicated" val="2"/>
+      <trait name="Depraved" val="2"/>
+      <trait name="Disciplined"/>
+      <trait name="Intuitive"/>
+      <trait name="Knowledgeable"/>
+      <trait name="Reflective"/>
+      <trait name="Vigilant"/>
+    </traitlist>
+    <traitlist name="Negative Physical" abc="yes" negative="yes" display="1">
+      <trait name="Sickly" val="2"/>
+    </traitlist>
+    <traitlist name="Negative Social" abc="yes" negative="yes" display="1"/>
+    <traitlist name="Negative Mental" abc="yes" negative="yes" display="1">
+      <trait name="Impatient"/>
+    </traitlist>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="Academics" val="2"/>
+      <trait name="Animal Ken" val="3"/>
+      <trait name="Archery" val="2"/>
+      <trait name="Athletics" val="4"/>
+      <trait name="Awareness" val="4"/>
+      <trait name="Brawl" val="9"/>
+      <trait name="Computer" val="3"/>
+      <trait name="Crafts" val="5"/>
+      <trait name="Demolitions" val="3"/>
+      <trait name="Disguise" val="3"/>
+      <trait name="Dodge"/>
+      <trait name="Drive" val="3"/>
+      <trait name="Etiquette" val="4"/>
+      <trait name="Expression" val="2"/>
+      <trait name="Finance"/>
+      <trait name="Firearms" val="2"/>
+      <trait name="Flight"/>
+      <trait name="Intimidation" val="4"/>
+      <trait name="Investigation"/>
+      <trait name="Law"/>
+      <trait name="Leadership" val="3"/>
+      <trait name="Lore: Sewer" val="2"/>
+      <trait name="Medicine" val="3"/>
+      <trait name="Melee" val="7"/>
+      <trait name="Occult" val="3"/>
+      <trait name="Politics" val="2"/>
+      <trait name="Repair" val="4"/>
+      <trait name="Scrounge" val="6"/>
+      <trait name="Security" val="5"/>
+      <trait name="Stealth" val="3"/>
+      <trait name="Streetwise" val="4"/>
+      <trait name="Torture" val="2"/>
+    </traitlist>
+    <traitlist name="Influences" abc="yes" display="1"/>
+    <traitlist name="Backgrounds" abc="yes" display="1">
+      <trait name="Allies" val="3"/>
+      <trait name="Contacts" val="4"/>
+      <trait name="Fame" val="5"/>
+      <trait name="Influence" val="3"/>
+      <trait name="Mentor" val="5"/>
+      <trait name="Resources" val="7"/>
+      <trait name="Retainers" val="3"/>
+    </traitlist>
+    <traitlist name="Health Levels" abc="no" display="1">
+      <trait name="Healthy" val="2"/>
+      <trait name="Bruised" val="3"/>
+      <trait name="Wounded" val="2"/>
+      <trait name="Incapacitated"/>
+      <trait name="Mortally Wounded"/>
+    </traitlist>
+    <traitlist name="Powers" abc="no" atomic="yes" display="5"/>
+    <traitlist name="Equipment" abc="yes" display="1"/>
+    <traitlist name="Locations" abc="yes" atomic="yes" display="5"/>
+  </various>
+  <wraith name="Walt Wraith" ethnos="Wraith" pathos="2" corpus="2" willpower="2" angst="2" physicalmax="24" status="Active" startdate="1/1/2026 7:10:30 PM" lastmodified="1/1/2026 7:10:30 PM">
+    <experience unspent="0" earned="0">
+      <entry date="1/1/2026 7:10:30 PM" change="0" type="6" reason="Created 9/3/24 with 112 Abilities and 10 Backgrounds, using 3 Negative and 30 Free Traits" earned="0" unspent="0"/>
+    </experience>
+    <traitlist name="Physical" abc="yes" display="1">
+      <trait name="Athletic" val="2"/>
+      <trait name="Ferocious"/>
+      <trait name="Fierce" val="2"/>
+      <trait name="Stalwart" val="2"/>
+      <trait name="Vigorous" val="2"/>
+    </traitlist>
+    <traitlist name="Social" abc="yes" display="1">
+      <trait name="Callous"/>
+      <trait name="Manipulative" val="2"/>
+    </traitlist>
+    <traitlist name="Mental" abc="yes" display="1">
+      <trait name="Alert" val="2"/>
+      <trait name="Astute"/>
+      <trait name="Creative" val="3"/>
+      <trait name="Dedicated"/>
+      <trait name="Depraved"/>
+      <trait name="Discerning"/>
+      <trait name="Disciplined" val="4"/>
+      <trait name="Flexible"/>
+      <trait name="Focused" val="3"/>
+      <trait name="Inhumane"/>
+      <trait name="Insightful" val="4"/>
+      <trait name="Vigilant" val="2"/>
+    </traitlist>
+    <traitlist name="Negative Physical" abc="yes" negative="yes" display="1">
+      <trait name="Sickly" val="2"/>
+    </traitlist>
+    <traitlist name="Negative Social" abc="yes" negative="yes" display="1">
+      <trait name="Haggard"/>
+    </traitlist>
+    <traitlist name="Negative Mental" abc="yes" negative="yes" display="1"/>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="Academics"/>
+      <trait name="Animal Ken" val="7"/>
+      <trait name="Archery" val="3"/>
+      <trait name="Athletics" val="5"/>
+      <trait name="Awareness" val="4"/>
+      <trait name="Blindfighting" val="5"/>
+      <trait name="Brawl" val="4"/>
+      <trait name="Bureaucracy" val="5"/>
+      <trait name="Computer" val="2"/>
+      <trait name="Crafts" val="2"/>
+      <trait name="Demolitions" val="4"/>
+      <trait name="Disguise" val="4"/>
+      <trait name="Drive" val="2"/>
+      <trait name="Enigmas" val="2"/>
+      <trait name="Expression" val="3"/>
+      <trait name="Firearms" val="3"/>
+      <trait name="Intimidation" val="3"/>
+      <trait name="Investigation" val="2"/>
+      <trait name="Law" val="6"/>
+      <trait name="Medicine" val="4"/>
+      <trait name="Melee" val="3"/>
+      <trait name="Occult" val="3"/>
+      <trait name="Science" val="3"/>
+      <trait name="Scrounge"/>
+      <trait name="Security"/>
+      <trait name="Soulforging" val="3"/>
+      <trait name="Stealth" val="4"/>
+      <trait name="Streetwise" val="5"/>
+      <trait name="Subterfuge" val="5"/>
+      <trait name="Survival" val="6"/>
+      <trait name="Throwing" val="2"/>
+      <trait name="Torture" val="5"/>
+    </traitlist>
+    <traitlist name="Backgrounds" abc="yes" display="1">
+      <trait name="Allies"/>
+      <trait name="Artifact" val="4"/>
+      <trait name="Haunt"/>
+      <trait name="Mentor"/>
+      <trait name="Wraith Family" val="3"/>
+    </traitlist>
+    <traitlist name="Status" abc="yes" display="1"/>
+    <traitlist name="Influences" abc="yes" display="1"/>
+    <traitlist name="Arcanoi" abc="no" atomic="yes" display="5"/>
+    <traitlist name="Merits" abc="yes" atomic="yes" display="4"/>
+    <traitlist name="Flaws" abc="yes" atomic="yes" negative="yes" display="4"/>
+    <traitlist name="Equipment" abc="yes" display="1"/>
+    <traitlist name="Locations" abc="yes" atomic="yes" display="5"/>
+    <traitlist name="Thorns" abc="yes" atomic="yes" negative="yes" display="4"/>
+  </wraith>
+  <werewolf name="Wanda Werewolf" nature="Addict" demeanor="Avant-Garde" tribe="Fianna" breed="Lupus" auspice="Ahroun" rank="Adren" pack="Wanda's Crew" totem="Badger" camp="Anointed Ones" position="Eldest Philodox" notoriety="2" rage="3" gnosis="5" willpower="3" honor="0" temphonor="6" glory="0" tempglory="5" wisdom="0" tempwisdom="4" physicalmax="11" player="Alice" status="Active" id="WND" startdate="1/1/2026 7:10:07 PM" lastmodified="1/1/2026 7:15:35 PM">
+    <experience unspent="0" earned="0">
+      <entry date="1/1/2026 7:10:07 PM" change="0" type="6" reason="Created 5/3/7 with 10 Abilities and 7 Backgrounds, using 2 Negative and 5 Free Traits" earned="0" unspent="0"/>
+    </experience>
+    <traitlist name="Physical" abc="yes" display="1">
+      <trait name="Savage" val="3"/>
+      <trait name="Wiry" val="2"/>
+    </traitlist>
+    <traitlist name="Social" abc="yes" display="1">
+      <trait name="Eloquent"/>
+      <trait name="Persuasive" val="2"/>
+    </traitlist>
+    <traitlist name="Mental" abc="yes" display="1">
+      <trait name="Clever"/>
+      <trait name="Intuitive" val="4"/>
+      <trait name="Shrewd" val="2"/>
+    </traitlist>
+    <traitlist name="Negative Physical" abc="yes" negative="yes" display="1"/>
+    <traitlist name="Negative Social" abc="yes" negative="yes" display="1">
+      <trait name="Dull"/>
+    </traitlist>
+    <traitlist name="Negative Mental" abc="yes" negative="yes" display="1">
+      <trait name="Gullible"/>
+    </traitlist>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="Drive" val="2"/>
+      <trait name="Gambling"/>
+      <trait name="Iskakku"/>
+      <trait name="Leadership"/>
+      <trait name="Lore: Spirit"/>
+      <trait name="Repair" val="3"/>
+      <trait name="Rituals"/>
+    </traitlist>
+    <traitlist name="Influences" abc="yes" display="1"/>
+    <traitlist name="Backgrounds" abc="yes" display="1">
+      <trait name="Ancestors"/>
+      <trait name="Fetish"/>
+      <trait name="Resources" val="3"/>
+      <trait name="Totem" val="2"/>
+    </traitlist>
+    <traitlist name="Health Levels" abc="no" display="1">
+      <trait name="Healthy" val="2"/>
+      <trait name="Bruised" val="3"/>
+      <trait name="Wounded" val="2"/>
+      <trait name="Incapacitated"/>
+      <trait name="Mortally Wounded"/>
+    </traitlist>
+    <traitlist name="Features" abc="yes" atomic="yes" display="5">
+      <trait name="Derangement: Acute Stress Disorder" val="2"/>
+      <trait name="House: Blood Red Crest"/>
+      <trait name="Lodge: Moon"/>
+      <trait name="Metis: Birthmarks"/>
+      <trait name="Quirk: Amnesia"/>
+      <trait name="Scar: Collapsed Lung"/>
+    </traitlist>
+    <traitlist name="Gifts" abc="no" atomic="yes" display="5">
+      <trait name="Philodox: Call to Duty" val="3" note="basic"/>
+      <trait name="Philodox: King of the Beasts" val="3" note="basic"/>
+      <trait name="Philodox: Resist Pain" val="3" note="basic"/>
+    </traitlist>
+    <traitlist name="Rites" abc="no" atomic="yes" display="5">
+      <trait name="Caern: Moot Rite" val="2" note="basic"/>
+      <trait name="Caern: Rite of the Opened Caern" val="2" note="basic"/>
+      <trait name="Caern: Rite of the Badger's Burrow" val="4" note="int."/>
+    </traitlist>
+    <traitlist name="Honor" abc="yes" display="1">
+      <trait name="Admirable" val="2"/>
+      <trait name="Commendable"/>
+    </traitlist>
+    <traitlist name="Glory" abc="yes" display="1">
+      <trait name="Courageous" val="4"/>
+    </traitlist>
+    <traitlist name="Wisdom" abc="yes" display="1">
+      <trait name="Revered" val="4"/>
+    </traitlist>
+    <traitlist name="Merits" abc="yes" atomic="yes" display="4">
+      <trait name="Bad Taste" val="2"/>
+    </traitlist>
+    <traitlist name="Flaws" abc="yes" atomic="yes" negative="yes" display="4">
+      <trait name="Amnesia" val="2 or 4"/>
+    </traitlist>
+    <traitlist name="Equipment" abc="yes" display="1">
+      <trait name="(Fetishes and Talens)"/>
+    </traitlist>
+    <traitlist name="Locations" abc="yes" atomic="yes" display="5"/>
+  </werewolf>
+  <query name="Active Characters" table="chars" match="any" sort="name" lastmodified="1/1/2026 1:27:42 PM">
+    <clause field="playstatus" comp="==" find="active"/>
+  </query>
+  <query name="Active Players" table="players" match="any" sort="name" lastmodified="1/1/2026 1:27:42 PM">
+    <clause field="playstatus" comp="==" find="Active"/>
+  </query>
+  <query name="All Characters" table="chars" match="any" sort="name" lastmodified="1/1/2026 1:27:42 PM"/>
+  <query name="All Players" table="players" match="any" sort="name" lastmodified="1/1/2026 1:27:42 PM"/>
+  <query name="Changelings" table="chars" match="any" sort="name" lastmodified="1/1/2026 1:27:42 PM">
+    <clause field="race" comp="==" find="changeling"/>
+  </query>
+  <query name="Demons" table="chars" match="any" sort="name" lastmodified="1/1/2026 1:27:42 PM">
+    <clause field="race" comp="==" find="demon"/>
+  </query>
+  <query name="Fera" table="chars" match="any" sort="name" lastmodified="1/1/2026 1:27:42 PM">
+    <clause field="race" comp="==" find="fera"/>
+  </query>
+  <query name="Hunters" table="chars" match="any" sort="name" lastmodified="1/1/2026 1:27:42 PM">
+    <clause field="race" comp="==" find="hunter"/>
+  </query>
+  <query name="Kuei-Jin" table="chars" match="any" sort="name" lastmodified="1/1/2026 1:27:42 PM">
+    <clause field="race" comp="==" find="kuei-jin"/>
+  </query>
+  <query name="Mages" table="chars" match="any" sort="name" lastmodified="1/1/2026 1:27:42 PM">
+    <clause field="race" comp="==" find="mage"/>
+  </query>
+  <query name="Mortals" table="chars" match="any" sort="name" lastmodified="1/1/2026 1:27:42 PM">
+    <clause field="race" comp="==" find="mortal"/>
+  </query>
+  <query name="Mummies" table="chars" match="any" sort="name" lastmodified="1/1/2026 1:27:42 PM">
+    <clause field="race" comp="==" find="mummy"/>
+  </query>
+  <query name="NPCs" table="chars" match="any" sort="name" lastmodified="1/1/2026 1:27:42 PM">
+    <clause field="npc" comp="=T"/>
+  </query>
+  <query name="Staff" table="players" match="any" sort="name" lastmodified="1/1/2026 1:27:42 PM">
+    <clause field="position" comp="!==" find="player"/>
+  </query>
+  <query name="Vampires" table="chars" match="any" sort="name" lastmodified="1/1/2026 1:27:42 PM">
+    <clause field="race" comp="==" find="vampire"/>
+  </query>
+  <query name="Various" table="chars" match="any" sort="name" lastmodified="1/1/2026 1:27:42 PM">
+    <clause field="race" comp="==" find="various"/>
+  </query>
+  <query name="Werewolves" table="chars" match="any" sort="name" lastmodified="1/1/2026 1:27:42 PM">
+    <clause field="race" comp="==" find="werewolf"/>
+  </query>
+  <query name="Wraiths" table="chars" match="any" sort="name" lastmodified="1/1/2026 1:27:42 PM">
+    <clause field="race" comp="==" find="wraith"/>
+  </query>
+  <item name="(Artifacts and Devices)" type="Artifact" subtype="User Information" level="0" bonus="0" amount="0" lastmodified="12/2/2002 1:46:53 PM">
+    <traitlist name="Tempers" abc="yes" display="2">
+      <trait name="Click the &quot;Details&quot; Tab!"/>
+    </traitlist>
+    <traitlist name="Abilities" abc="yes" display="1"/>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1"/>
+    <traitlist name="Availability" abc="yes" display="1"/>
+    <powers>
+      <![CDATA[Follow these instructions to load Artifacts and Devices into your game!]]>
+    </powers>
+    <appearance>
+      <![CDATA[1. Click "Data Exchange" under the File menu.
+
+2. Click the "Load Data" button.
+
+3. Navigate to your Grapevine folder.  Select the file "Artifacts and Devices.gex" and click OK.
+
+4. Click OK to confirm the list of loaded Artifacts and Devices and click Close to exit the Exchange Data window.
+
+5. Done!  Enjoy the new items!]]>
+    </appearance>
+    <notes>
+      <![CDATA[White Wolf's copyright forbids me from redistributing the rules for each Artifact and Device.  "Artifacts and Devices.gex" provides book and page references instead. Fill out the item cards in detail as you need them, or colloborate with other STs to amass a complete collection.]]>
+    </notes>
+  </item>
+  <item name="(Fetishes and Talens)" type="Fetish" subtype="User Information" level="0" bonus="0" amount="0" lastmodified="10/30/2002 2:33:27 PM">
+    <traitlist name="Tempers" abc="yes" display="2">
+      <trait name="Click the &quot;Details&quot; Tab!"/>
+    </traitlist>
+    <traitlist name="Abilities" abc="yes" display="1"/>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1"/>
+    <traitlist name="Availability" abc="yes" display="1"/>
+    <powers>
+      <![CDATA[Follow these instructions to load Fetishes and Talens into your game!]]>
+    </powers>
+    <appearance>
+      <![CDATA[1. Click "Data Exchange" under the File menu.
+
+2. Click the "Load Data" button.
+
+3. Navigate to your Grapevine folder.  Select the file "Fetishes and Talens.gex" and click OK.
+
+4. Click OK to confirm the list of loaded Fetishes and Talens and click Close to exit the Exchange Data window.
+
+5. Done!  Enjoy the new items!]]>
+    </appearance>
+    <notes>
+      <![CDATA[White Wolf's copyright forbids me from redistributing the rules for each Fetish and Talen.  "Fetishes and Talens.gex" provides book and page references instead. Fill out the item cards in detail as you need them, or colloborate with other STs to amass a complete collection.]]>
+    </notes>
+  </item>
+  <item name="Armor-Piercing Ammo [Clip of 10]" type="Equipment" subtype="Ammunition" level="0" bonus="0" amount="0" lastmodified="11/5/2002 11:24:01 AM">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="Armor-Piercing"/>
+    </traitlist>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1"/>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Police" val="4"/>
+      <trait name="Street" val="4"/>
+      <trait name="Underworld" val="3"/>
+    </traitlist>
+  </item>
+  <item name="Assault Rifle" type="Equipment" subtype="Ranged Weapon" level="0" bonus="3" damage="Lethal" amount="2" conceal="None" lastmodified="10/21/2002">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="Fully Automatic"/>
+      <trait name="Spray"/>
+      <trait name="Two-Hand Requirement"/>
+    </traitlist>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1">
+      <trait name="Loud"/>
+    </traitlist>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Underworld" val="5"/>
+    </traitlist>
+  </item>
+  <item name="Ax" type="Equipment" subtype="Weapon" level="0" bonus="3" damage="Lethal" amount="2" conceal="Trenchcoat" lastmodified="10/17/2002">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="Destroy Shield" note="3 blows"/>
+    </traitlist>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1">
+      <trait name="Clumsy"/>
+    </traitlist>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Any"/>
+    </traitlist>
+  </item>
+  <item name="Ballistic Vest" type="Equipment" subtype="Armor" level="0" bonus="0" damage="Armor Levels" amount="2" lastmodified="10/17/2002">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1"/>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1">
+      <trait name="Heavy"/>
+    </traitlist>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Police" val="4"/>
+      <trait name="Underworld" val="3"/>
+    </traitlist>
+  </item>
+  <item name="Broadsword" type="Equipment" subtype="Weapon" level="0" bonus="3" damage="Lethal" amount="2" conceal="Trenchcoat" lastmodified="10/17/2002">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1"/>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1">
+      <trait name="Heavy"/>
+    </traitlist>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Any"/>
+    </traitlist>
+  </item>
+  <item name="Broken Bottle" type="Equipment" subtype="Weapon" level="0" bonus="1" damage="Lethal" amount="1" conceal="Jacket" lastmodified="10/17/2002">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1"/>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1">
+      <trait name="Fragile"/>
+    </traitlist>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Any"/>
+    </traitlist>
+  </item>
+  <item name="Cane" type="Equipment" subtype="Weapon" level="0" bonus="1" damage="Bashing" amount="1" conceal="Trenchcoat" lastmodified="10/17/2002">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1"/>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1">
+      <trait name="Clumsy"/>
+    </traitlist>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Any"/>
+    </traitlist>
+  </item>
+  <item name="Chain Gun" type="Equipment" subtype="Ranged Weapon" level="0" bonus="5" damage="Lethal" amount="3" conceal="None" lastmodified="10/17/2002">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="Fully Automatic"/>
+      <trait name="Spray" note="5 targets, 10 ft."/>
+    </traitlist>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1">
+      <trait name="Clumsy"/>
+      <trait name="Loud"/>
+    </traitlist>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Military" val="5"/>
+      <trait name="Technocracy"/>
+    </traitlist>
+  </item>
+  <item name="Chain Mail" type="Equipment" subtype="Armor" level="0" bonus="0" damage="Armor Levels" amount="2" lastmodified="10/17/2002">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1"/>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1">
+      <trait name="Heavy"/>
+    </traitlist>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Any" note="$500+"/>
+    </traitlist>
+  </item>
+  <item name="Club" type="Equipment" subtype="Weapon" level="0" bonus="2" damage="Bashing" amount="1" conceal="Trenchcoat" lastmodified="10/17/2002">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1"/>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1">
+      <trait name="Clumsy"/>
+    </traitlist>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Any"/>
+    </traitlist>
+  </item>
+  <item name="Combat Shotgun" type="Equipment" subtype="Ranged Weapon" level="0" bonus="3" damage="Lethal" amount="2" conceal="None" lastmodified="10/21/2002">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="Fully Automatic"/>
+      <trait name="Mass-Trauma"/>
+      <trait name="Spray"/>
+      <trait name="Two-Hand Requirement"/>
+    </traitlist>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1">
+      <trait name="Loud"/>
+    </traitlist>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Police" val="7"/>
+      <trait name="Underworld" val="7"/>
+    </traitlist>
+  </item>
+  <item name="Compound Bow" type="Equipment" subtype="Ranged Weapon" level="0" bonus="3" damage="Lethal" amount="2" conceal="None" lastmodified="11/5/2002 11:23:13 AM">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="Armor-Piercing"/>
+      <trait name="Destroy Shield"/>
+      <trait name="Staking"/>
+      <trait name="Two-Hand Requirement"/>
+    </traitlist>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1">
+      <trait name="Fragile"/>
+      <trait name="Heavy"/>
+    </traitlist>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Any"/>
+    </traitlist>
+  </item>
+  <item name="Crossbow" type="Equipment" subtype="Ranged Weapon" level="0" bonus="2" damage="Lethal" amount="2" conceal="Trenchcoat" lastmodified="10/17/2002">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="Armor-Piercing"/>
+      <trait name="Destroy Shield"/>
+      <trait name="Staking"/>
+    </traitlist>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1">
+      <trait name="Heavy"/>
+      <trait name="Slow"/>
+    </traitlist>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Any"/>
+    </traitlist>
+  </item>
+  <item name="Dagger" type="Equipment" subtype="Weapon" level="0" bonus="2" damage="Lethal" amount="1" conceal="Pocket" lastmodified="10/17/2002">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="Speed"/>
+    </traitlist>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1">
+      <trait name="Short"/>
+    </traitlist>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Any"/>
+    </traitlist>
+  </item>
+  <item name="Derringer" type="Equipment" subtype="Ranged Weapon" level="0" bonus="2" damage="Lethal" amount="2" conceal="Pocket" lastmodified="1/3/2004 4:23:39 PM">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="Single-Shot"/>
+    </traitlist>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1">
+      <trait name="Loud"/>
+    </traitlist>
+    <traitlist name="Availability" abc="yes" display="1"/>
+  </item>
+  <item name="Fencing Blade" type="Equipment" subtype="Weapon" level="0" bonus="2" damage="Lethal" amount="1" conceal="Trenchcoat" lastmodified="10/17/2002">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="Speed"/>
+    </traitlist>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1">
+      <trait name="Fragile"/>
+    </traitlist>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Any"/>
+    </traitlist>
+  </item>
+  <item name="Flame Thrower" type="Equipment" subtype="Ranged Weapon" level="0" bonus="0" damage="Aggravated" amount="2" conceal="None" lastmodified="10/21/2002">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="Incendiary"/>
+      <trait name="Spray"/>
+      <trait name="Two-Hand Requirement"/>
+    </traitlist>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1">
+      <trait name="Heavy"/>
+      <trait name="Hot"/>
+    </traitlist>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Underworld" val="5"/>
+    </traitlist>
+  </item>
+  <item name="Gatling Cannon" type="Equipment" subtype="Ranged Weapon" level="0" bonus="5" damage="Lethal" amount="3" conceal="None" lastmodified="1/3/2004 4:25:30 PM">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="Mass-Trauma"/>
+      <trait name="Spray"/>
+      <trait name="Tripod"/>
+    </traitlist>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1">
+      <trait name="Clumsy" val="3" note="without tripod"/>
+      <trait name="Heavy"/>
+      <trait name="Loud"/>
+    </traitlist>
+    <traitlist name="Availability" abc="yes" display="1"/>
+  </item>
+  <item name="Greatsword" type="Equipment" subtype="Weapon" level="0" bonus="5" damage="Lethal" amount="3" conceal="None" lastmodified="10/17/2002">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="Two-Hand Requirement"/>
+    </traitlist>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1">
+      <trait name="Clumsy"/>
+      <trait name="Heavy"/>
+      <trait name="Slow"/>
+    </traitlist>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Any"/>
+    </traitlist>
+  </item>
+  <item name="Heavy Pistol" type="Equipment" subtype="Ranged Weapon" level="0" bonus="2" damage="Lethal" amount="2" conceal="Jacket" lastmodified="10/17/2002">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="High-Caliber"/>
+    </traitlist>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1">
+      <trait name="Loud"/>
+    </traitlist>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Any" note="if registered"/>
+      <trait name="Police" val="4"/>
+      <trait name="Street" val="4"/>
+      <trait name="Underworld" val="3"/>
+    </traitlist>
+  </item>
+  <item name="Incendiary Ammo [Clip of 10]" type="Equipment" subtype="Ammunition" level="0" bonus="0" amount="0" lastmodified="11/5/2002 11:24:07 AM">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="Incendiary"/>
+    </traitlist>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1"/>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Police" val="5"/>
+      <trait name="Underworld" val="4"/>
+    </traitlist>
+  </item>
+  <item name="Katana" type="Equipment" subtype="Weapon" level="0" bonus="3" damage="Lethal" amount="3" conceal="Trenchcoat" lastmodified="10/31/2002 12:44:28 PM">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1"/>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1"/>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Rare"/>
+    </traitlist>
+  </item>
+  <item name="Knife" type="Equipment" subtype="Weapon" level="0" bonus="2" damage="Lethal" amount="1" conceal="Pocket" lastmodified="10/17/2002">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="Speed"/>
+    </traitlist>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1">
+      <trait name="Short"/>
+    </traitlist>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Any"/>
+    </traitlist>
+  </item>
+  <item name="Leather Armor" type="Equipment" subtype="Armor" level="0" bonus="0" damage="Armor Levels" amount="1" lastmodified="10/17/2002">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1"/>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1"/>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Any"/>
+    </traitlist>
+  </item>
+  <item name="Longbow" type="Equipment" subtype="Ranged Weapon" level="0" bonus="6" damage="Lethal" amount="2" conceal="None" lastmodified="10/17/2002">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="Armor-Piercing" note="chain armor"/>
+      <trait name="Destroy Shield" note="1 shot"/>
+      <trait name="Staking"/>
+      <trait name="Two-Hand Requirement"/>
+    </traitlist>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1">
+      <trait name="Clumsy"/>
+      <trait name="Fragile"/>
+      <trait name="Heavy"/>
+    </traitlist>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Any"/>
+    </traitlist>
+  </item>
+  <item name="Longsword" type="Equipment" subtype="Weapon" level="0" bonus="3" damage="Lethal" amount="2" conceal="Trenchcoat" lastmodified="10/17/2002">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1"/>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1">
+      <trait name="Heavy"/>
+    </traitlist>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Any"/>
+    </traitlist>
+  </item>
+  <item name="Molotov Cocktail" type="Equipment" subtype="Ranged Weapon" level="0" bonus="2" damage="Aggravated" amount="1" conceal="Jacket (until lit!)" lastmodified="10/21/2002">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="Incendiary"/>
+      <trait name="Spray"/>
+    </traitlist>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1">
+      <trait name="Fragile"/>
+    </traitlist>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Any"/>
+    </traitlist>
+  </item>
+  <item name="Nunchaku" type="Equipment" subtype="Weapon" level="0" bonus="2" damage="Lethal" amount="1" conceal="Jacket" lastmodified="10/17/2002">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="Speed"/>
+    </traitlist>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1">
+      <trait name="Short"/>
+    </traitlist>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Any"/>
+    </traitlist>
+  </item>
+  <item name="Pistol" type="Equipment" subtype="Ranged Weapon" level="0" bonus="2" damage="Lethal" amount="2" conceal="Pocket" lastmodified="10/17/2002">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1"/>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1">
+      <trait name="Loud"/>
+    </traitlist>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Any" note="if registered"/>
+      <trait name="Police" val="4"/>
+      <trait name="Street" val="3"/>
+      <trait name="Underworld" val="2"/>
+    </traitlist>
+  </item>
+  <item name="Plate Mail" type="Equipment" subtype="Armor" level="0" bonus="0" damage="Armor Levels" amount="3" lastmodified="10/17/2002">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1"/>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1">
+      <trait name="Clumsy"/>
+      <trait name="Heavy"/>
+    </traitlist>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Any" note="$3000+"/>
+    </traitlist>
+  </item>
+  <item name="Polearm" type="Equipment" subtype="Weapon" level="0" bonus="4" damage="Lethal" amount="2" conceal="None" lastmodified="10/21/2002">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="Two-Hand Requirement"/>
+    </traitlist>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1">
+      <trait name="Clumsy"/>
+      <trait name="Heavy"/>
+    </traitlist>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Any"/>
+    </traitlist>
+  </item>
+  <item name="Reinforced Vest" type="Equipment" subtype="Armor" level="0" bonus="0" damage="Armor Levels" amount="3" lastmodified="10/17/2002">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1"/>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1">
+      <trait name="Clumsy"/>
+      <trait name="Heavy"/>
+    </traitlist>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Police" val="5"/>
+      <trait name="Underworld" val="4"/>
+    </traitlist>
+  </item>
+  <item name="Rifle" type="Equipment" subtype="Ranged Weapon" level="0" bonus="3" damage="Lethal" amount="2" conceal="None" lastmodified="10/17/2002">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="Two-Hand Requirement"/>
+    </traitlist>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1">
+      <trait name="Loud"/>
+    </traitlist>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Any" note="if registered"/>
+      <trait name="Police" val="4"/>
+      <trait name="Street" val="4"/>
+      <trait name="Underworld" val="3"/>
+    </traitlist>
+  </item>
+  <item name="Riot Suit" type="Equipment" subtype="Armor" level="0" bonus="0" damage="Armor Levels" amount="3" lastmodified="10/21/2002">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1"/>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1">
+      <trait name="Clumsy"/>
+      <trait name="Heavy"/>
+    </traitlist>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Police" val="4"/>
+      <trait name="Underworld" val="5"/>
+    </traitlist>
+  </item>
+  <item name="Scope" type="Equipment" subtype="Add-on" level="0" bonus="0" amount="0" lastmodified="11/5/2002 11:24:11 AM">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="Scope"/>
+    </traitlist>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1"/>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Any"/>
+    </traitlist>
+  </item>
+  <item name="Scythe" type="Equipment" subtype="Weapon" level="0" bonus="4" damage="Lethal" amount="2" conceal="None" lastmodified="10/21/2002">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="Two-Hand Requirement"/>
+    </traitlist>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1">
+      <trait name="Clumsy"/>
+      <trait name="Heavy"/>
+    </traitlist>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Any"/>
+    </traitlist>
+  </item>
+  <item name="Shortbow" type="Equipment" subtype="Ranged Weapon" level="0" bonus="2" damage="Lethal" amount="2" conceal="Trenchcoat" lastmodified="10/21/2002">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="Armor-Piercing"/>
+      <trait name="Staking"/>
+      <trait name="Two-Hand Requirement"/>
+    </traitlist>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1">
+      <trait name="Fragile"/>
+    </traitlist>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Any"/>
+    </traitlist>
+  </item>
+  <item name="Shortsword" type="Equipment" subtype="Weapon" level="0" bonus="2" damage="Lethal" amount="1" conceal="Trenchcoat" lastmodified="10/17/2002">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1"/>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1">
+      <trait name="Short"/>
+    </traitlist>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Any"/>
+    </traitlist>
+  </item>
+  <item name="Shotgun" type="Equipment" subtype="Ranged Weapon" level="0" bonus="3" damage="Lethal" amount="2" conceal="None" lastmodified="10/17/2002">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="Mass-Trauma"/>
+      <trait name="Spray" note="3 targets, 20 ft"/>
+      <trait name="Two-Hand Requirement"/>
+    </traitlist>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1"/>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Any" note="if registered"/>
+      <trait name="Police" val="4"/>
+      <trait name="Street" val="4"/>
+      <trait name="Underworld" val="3"/>
+    </traitlist>
+  </item>
+  <item name="Shuriken" type="Equipment" subtype="Ranged Weapon" level="0" bonus="1" damage="Lethal" amount="1" conceal="Pocket" lastmodified="10/17/2002">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="Spray" note="3 targets, 20 ft."/>
+    </traitlist>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1">
+      <trait name="Clumsy"/>
+    </traitlist>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Any"/>
+    </traitlist>
+  </item>
+  <item name="Sniper Rifle" type="Equipment" subtype="Ranged Weapon" level="0" bonus="3" damage="Lethal" amount="2" conceal="None" lastmodified="10/21/2002">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="High-Caliber"/>
+      <trait name="Two-Hand Requirement"/>
+    </traitlist>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1">
+      <trait name="Loud"/>
+    </traitlist>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Any"/>
+      <trait name="Police" val="4"/>
+      <trait name="Underworld" val="3"/>
+    </traitlist>
+  </item>
+  <item name="Sound Suppressor" type="Equipment" subtype="Add-on" level="0" bonus="0" amount="0" lastmodified="11/5/2002 11:24:15 AM">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="Sound Suppression"/>
+    </traitlist>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1"/>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Police" val="4"/>
+      <trait name="Street" val="4"/>
+      <trait name="Underworld" val="3"/>
+    </traitlist>
+  </item>
+  <item name="Spear" type="Equipment" subtype="Weapon" level="0" bonus="3" damage="Lethal" amount="3" conceal="None" lastmodified="10/17/2002">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="Two-Hand Requirement"/>
+    </traitlist>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1">
+      <trait name="Clumsy"/>
+      <trait name="Heavy"/>
+    </traitlist>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Any"/>
+    </traitlist>
+  </item>
+  <item name="Special Item" type="Equipment" subtype="Periapt" level="2" bonus="4" damage="Armor Levels" amount="3" conceal="Jacket" lastmodified="1/1/2026 7:22:55 PM">
+    <traitlist name="Tempers" abc="yes" display="2">
+      <trait name="Composure" val="2"/>
+    </traitlist>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="Gold"/>
+    </traitlist>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1">
+      <trait name="Loud"/>
+    </traitlist>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Bureaucracy"/>
+    </traitlist>
+    <powers>
+      <![CDATA[Power]]>
+    </powers>
+    <appearance>
+      <![CDATA[Appearance]]>
+    </appearance>
+    <notes>
+      <![CDATA[Note]]>
+    </notes>
+  </item>
+  <item name="Staff" type="Equipment" subtype="Weapon" level="0" bonus="3" damage="Bashing" amount="2" conceal="None" lastmodified="10/17/2002">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="Two-Hand Requirement"/>
+    </traitlist>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1">
+      <trait name="Clumsy"/>
+    </traitlist>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Any"/>
+    </traitlist>
+  </item>
+  <item name="Submachine Gun" type="Equipment" subtype="Ranged Weapon" level="0" bonus="2" damage="Lethal" amount="2" conceal="Jacket" lastmodified="10/17/2002">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="Fully Automatic"/>
+      <trait name="Spray" note="5 targets, 10 ft."/>
+    </traitlist>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1">
+      <trait name="Loud"/>
+    </traitlist>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Any" note="if registered and non-automatic"/>
+      <trait name="Police" val="4"/>
+      <trait name="Street" val="4"/>
+      <trait name="Underworld" val="3"/>
+    </traitlist>
+  </item>
+  <item name="Wooden Stake" type="Equipment" subtype="Weapon" level="0" bonus="2" damage="Lethal" amount="1" conceal="Jacket" lastmodified="10/17/2002">
+    <traitlist name="Tempers" abc="yes" display="2"/>
+    <traitlist name="Abilities" abc="yes" display="1">
+      <trait name="Staking"/>
+    </traitlist>
+    <traitlist name="Negatives" abc="yes" negative="yes" display="1">
+      <trait name="Clumsy"/>
+    </traitlist>
+    <traitlist name="Availability" abc="yes" display="1">
+      <trait name="Any"/>
+    </traitlist>
+  </item>
+  <rote name="Rite Rote" level="3" duration="One Scene or Hour" lastmodified="1/1/2026 7:20:25 PM">
+    <traitlist name="Spheres" abc="no" atomic="yes" display="5">
+      <trait name="Life: Apprentice" val="5" note="basic"/>
+    </traitlist>
+    <description>
+      <![CDATA[Does a thing]]>
+    </description>
+    <grades>
+      <![CDATA[Very good grade]]>
+    </grades>
+  </rote>
+  <location name="Locale" type="Elysium" level="0" owner="Kurt Kuei-Jin" access="Public" securitytraits="7" securityretests="3" gauntlet="7" affinity="Bird" totem="Badger" lastmodified="1/1/2026 7:22:17 PM">
+    <traitlist name="Links" abc="yes" atomic="yes" display="5">
+      <trait name="Locale"/>
+    </traitlist>
+    <where>
+      <![CDATA[It's a place]]>
+    </where>
+    <appearance>
+      <![CDATA[Looks nice]]>
+    </appearance>
+    <security>
+      <![CDATA[There's a dog, maybe?]]>
+    </security>
+    <umbra>
+      <![CDATA[There's one of these, I bet]]>
+    </umbra>
+    <notes>
+      <![CDATA[Darryl is here.]]>
+    </notes>
+  </location>
+  <action date="1/8/2026" character="Freddy Fera" done="yes" lastmodified="1/1/2026 7:23:47 PM">
+    <subaction name="Personal" level="0" unused="4" total="4">
+      <act>
+        <![CDATA[A thing happened]]>
+      </act>
+      <results>
+        <![CDATA[It was cool]]>
+      </results>
+      <linklist>
+        <action date="1/8/2026" name="Freddy Fera" item="Personal"/>
+        <rumor date="1/8/2026" name="Changeling" item="0"/>
+      </linklist>
+    </subaction>
+  </action>
+  <plot name="A Plot" start="1/21/2026" end="2/23/2026" narrator="Luke" lastmodified="1/1/2026 7:21:27 PM">
+    <outline>
+      <![CDATA[A mage thing happens.]]>
+    </outline>
+    <traitlist name="Key Characters" abc="yes" display="0">
+      <trait name="Mark Mage"/>
+    </traitlist>
+    <development date="2/3/2026">
+      <linklist/>
+    </development>
+  </plot>
+  <rumor title="Public Knowledge" date="1/8/2026" lastmodified="1/1/2026 7:20:41 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM"/>
+    <subrumor/>
+  </rumor>
+  <rumor title="Espionage Influence" date="1/8/2026" category="1" list="influences" trait="Espionage" lastmodified="1/1/2026 7:20:41 PM">
+    <subrumor level="1"/>
+    <subrumor level="2"/>
+    <subrumor level="3"/>
+    <subrumor level="4"/>
+    <subrumor level="5"/>
+    <subrumor level="6"/>
+    <subrumor level="7"/>
+    <subrumor level="8"/>
+    <subrumor level="9"/>
+    <subrumor level="10"/>
+  </rumor>
+  <rumor title="High Society Influence" date="1/8/2026" category="1" list="influences" trait="High Society" lastmodified="1/1/2026 7:20:41 PM">
+    <subrumor level="1"/>
+    <subrumor level="2"/>
+    <subrumor level="3"/>
+    <subrumor level="4"/>
+    <subrumor level="5"/>
+    <subrumor level="6"/>
+    <subrumor level="7"/>
+    <subrumor level="8"/>
+    <subrumor level="9"/>
+    <subrumor level="10"/>
+  </rumor>
+  <rumor title="Changeling" date="1/8/2026" category="2" lastmodified="1/1/2026 7:23:47 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM">
+      <clause field="race" comp="==" find="Changeling"/>
+    </query>
+    <subrumor/>
+  </rumor>
+  <rumor title="Demon" date="1/8/2026" category="2" lastmodified="1/1/2026 7:20:41 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM">
+      <clause field="race" comp="==" find="Demon"/>
+    </query>
+    <subrumor/>
+  </rumor>
+  <rumor title="Fera" date="1/8/2026" category="2" lastmodified="1/1/2026 7:20:41 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM">
+      <clause field="race" comp="==" find="Fera"/>
+    </query>
+    <subrumor/>
+  </rumor>
+  <rumor title="Hunter" date="1/8/2026" category="2" done="yes" lastmodified="1/1/2026 7:20:53 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM">
+      <clause field="race" comp="==" find="Hunter"/>
+    </query>
+    <subrumor>
+      <body>
+        <![CDATA[A hunter.]]>
+      </body>
+    </subrumor>
+  </rumor>
+  <rumor title="Kuei-Jin" date="1/8/2026" category="2" lastmodified="1/1/2026 7:20:41 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM">
+      <clause field="race" comp="==" find="Kuei-Jin"/>
+    </query>
+    <subrumor/>
+  </rumor>
+  <rumor title="Mage" date="1/8/2026" category="2" lastmodified="1/1/2026 7:20:41 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM">
+      <clause field="race" comp="==" find="Mage"/>
+    </query>
+    <subrumor/>
+  </rumor>
+  <rumor title="Mortal" date="1/8/2026" category="2" lastmodified="1/1/2026 7:20:41 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM">
+      <clause field="race" comp="==" find="Mortal"/>
+    </query>
+    <subrumor/>
+  </rumor>
+  <rumor title="Mummy" date="1/8/2026" category="2" lastmodified="1/1/2026 7:20:41 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM">
+      <clause field="race" comp="==" find="Mummy"/>
+    </query>
+    <subrumor/>
+  </rumor>
+  <rumor title="Vampire" date="1/8/2026" category="2" lastmodified="1/1/2026 7:20:41 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM">
+      <clause field="race" comp="==" find="Vampire"/>
+    </query>
+    <subrumor/>
+  </rumor>
+  <rumor title="Various" date="1/8/2026" category="2" lastmodified="1/1/2026 7:20:41 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM">
+      <clause field="race" comp="==" find="Various"/>
+    </query>
+    <subrumor/>
+  </rumor>
+  <rumor title="Werewolf" date="1/8/2026" category="2" lastmodified="1/1/2026 7:20:41 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM">
+      <clause field="race" comp="==" find="Werewolf"/>
+    </query>
+    <subrumor/>
+  </rumor>
+  <rumor title="Wraith" date="1/8/2026" category="2" lastmodified="1/1/2026 7:20:41 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM">
+      <clause field="race" comp="==" find="Wraith"/>
+    </query>
+    <subrumor/>
+  </rumor>
+  <rumor title="Arcanum" date="1/8/2026" category="3" lastmodified="1/1/2026 7:20:41 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM">
+      <clause field="group" comp="==" find="Arcanum"/>
+    </query>
+    <subrumor/>
+  </rumor>
+  <rumor title="Euthanatos" date="1/8/2026" category="3" lastmodified="1/1/2026 7:20:41 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM">
+      <clause field="group" comp="==" find="Euthanatos"/>
+    </query>
+    <subrumor/>
+  </rumor>
+  <rumor title="Fianna" date="1/8/2026" category="3" lastmodified="1/1/2026 7:20:41 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM">
+      <clause field="group" comp="==" find="Fianna"/>
+    </query>
+    <subrumor/>
+  </rumor>
+  <rumor title="Fiend" date="1/8/2026" category="3" lastmodified="1/1/2026 7:20:41 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM">
+      <clause field="group" comp="==" find="Fiend"/>
+    </query>
+    <subrumor/>
+  </rumor>
+  <rumor title="Inanimae: New Item" date="1/8/2026" category="3" lastmodified="1/1/2026 7:20:41 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM">
+      <clause field="group" comp="==" find="Inanimae: New Item"/>
+    </query>
+    <subrumor/>
+  </rumor>
+  <rumor title="Judge" date="1/8/2026" category="3" lastmodified="1/1/2026 7:20:41 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM">
+      <clause field="group" comp="==" find="Judge"/>
+    </query>
+    <subrumor/>
+  </rumor>
+  <rumor title="Kitsune" date="1/8/2026" category="3" lastmodified="1/1/2026 7:20:41 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM">
+      <clause field="group" comp="==" find="Kitsune"/>
+    </query>
+    <subrumor/>
+  </rumor>
+  <rumor title="Path of a Thousand Whispers" date="1/8/2026" category="3" lastmodified="1/1/2026 7:20:41 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM">
+      <clause field="group" comp="==" find="Path of a Thousand Whispers"/>
+    </query>
+    <subrumor/>
+  </rumor>
+  <rumor title="Sefekhi" date="1/8/2026" category="3" lastmodified="1/1/2026 7:20:41 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM">
+      <clause field="group" comp="==" find="Sefekhi"/>
+    </query>
+    <subrumor/>
+  </rumor>
+  <rumor title="Tremere" date="1/8/2026" category="3" lastmodified="1/1/2026 7:20:41 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM">
+      <clause field="group" comp="==" find="Tremere"/>
+    </query>
+    <subrumor/>
+  </rumor>
+  <rumor title="Ahroun" date="1/8/2026" category="4" lastmodified="1/1/2026 7:20:41 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM">
+      <clause field="subgroup" comp="==" find="Ahroun"/>
+    </query>
+    <subrumor/>
+  </rumor>
+  <rumor title="Balance" date="1/8/2026" category="4" lastmodified="1/1/2026 7:20:41 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM">
+      <clause field="subgroup" comp="==" find="Balance"/>
+    </query>
+    <subrumor/>
+  </rumor>
+  <rumor title="Camarilla" date="1/8/2026" category="4" lastmodified="1/1/2026 7:20:41 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM">
+      <clause field="subgroup" comp="==" find="Camarilla"/>
+    </query>
+    <subrumor/>
+  </rumor>
+  <rumor title="Fun" date="1/8/2026" category="4" lastmodified="1/1/2026 7:20:41 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM">
+      <clause field="subgroup" comp="==" find="Fun"/>
+    </query>
+    <subrumor/>
+  </rumor>
+  <rumor title="Liberal" date="1/8/2026" category="4" lastmodified="1/1/2026 7:20:41 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM">
+      <clause field="subgroup" comp="==" find="Liberal"/>
+    </query>
+    <subrumor/>
+  </rumor>
+  <rumor title="Master" date="1/8/2026" category="4" lastmodified="1/1/2026 7:20:41 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM">
+      <clause field="subgroup" comp="==" find="Master"/>
+    </query>
+    <subrumor/>
+  </rumor>
+  <rumor title="Reconciler" date="1/8/2026" category="4" lastmodified="1/1/2026 7:20:41 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM">
+      <clause field="subgroup" comp="==" find="Reconciler"/>
+    </query>
+    <subrumor/>
+  </rumor>
+  <rumor title="Theurge" date="1/8/2026" category="4" lastmodified="1/1/2026 7:20:41 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM">
+      <clause field="subgroup" comp="==" find="Theurge"/>
+    </query>
+    <subrumor/>
+  </rumor>
+  <rumor title="Youngling" date="1/8/2026" category="4" lastmodified="1/1/2026 7:20:41 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM">
+      <clause field="subgroup" comp="==" find="Youngling"/>
+    </query>
+    <subrumor/>
+  </rumor>
+  <rumor title="Billy the Vampire" date="1/8/2026" category="5" lastmodified="1/1/2026 7:20:41 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM">
+      <clause field="name" comp="==" find="Billy the Vampire"/>
+    </query>
+    <subrumor/>
+  </rumor>
+  <rumor title="Carry Changeling" date="1/8/2026" category="5" lastmodified="1/1/2026 7:20:41 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM">
+      <clause field="name" comp="==" find="Carry Changeling"/>
+    </query>
+    <subrumor/>
+  </rumor>
+  <rumor title="Darryl Demon" date="1/8/2026" category="5" lastmodified="1/1/2026 7:20:41 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM">
+      <clause field="name" comp="==" find="Darryl Demon"/>
+    </query>
+    <subrumor/>
+  </rumor>
+  <rumor title="Freddy Fera" date="1/8/2026" category="5" lastmodified="1/1/2026 7:20:41 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM">
+      <clause field="name" comp="==" find="Freddy Fera"/>
+    </query>
+    <subrumor/>
+  </rumor>
+  <rumor title="Hank Hunter" date="1/8/2026" category="5" lastmodified="1/1/2026 7:20:41 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM">
+      <clause field="name" comp="==" find="Hank Hunter"/>
+    </query>
+    <subrumor/>
+  </rumor>
+  <rumor title="Kurt Kuei-Jin" date="1/8/2026" category="5" lastmodified="1/1/2026 7:20:41 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM">
+      <clause field="name" comp="==" find="Kurt Kuei-Jin"/>
+    </query>
+    <subrumor/>
+  </rumor>
+  <rumor title="Mark Mage" date="1/8/2026" category="5" lastmodified="1/1/2026 7:20:41 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM">
+      <clause field="name" comp="==" find="Mark Mage"/>
+    </query>
+    <subrumor/>
+  </rumor>
+  <rumor title="Matthew Mummy" date="1/8/2026" category="5" lastmodified="1/1/2026 7:20:41 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM">
+      <clause field="name" comp="==" find="Matthew Mummy"/>
+    </query>
+    <subrumor/>
+  </rumor>
+  <rumor title="Maya Mortal" date="1/8/2026" category="5" lastmodified="1/1/2026 7:20:41 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM">
+      <clause field="name" comp="==" find="Maya Mortal"/>
+    </query>
+    <subrumor/>
+  </rumor>
+  <rumor title="Some Various Guy" date="1/8/2026" category="5" lastmodified="1/1/2026 7:20:41 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM">
+      <clause field="name" comp="==" find="Some Various Guy"/>
+    </query>
+    <subrumor/>
+  </rumor>
+  <rumor title="Walt Wraith" date="1/8/2026" category="5" lastmodified="1/1/2026 7:20:41 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM">
+      <clause field="name" comp="==" find="Walt Wraith"/>
+    </query>
+    <subrumor/>
+  </rumor>
+  <rumor title="Wanda Werewolf" date="1/8/2026" category="5" lastmodified="1/1/2026 7:20:41 PM">
+    <query table="chars" match="any" lastmodified="1/1/2026 7:20:41 PM">
+      <clause field="name" comp="==" find="Wanda Werewolf"/>
+    </query>
+    <subrumor/>
+  </rumor>
+</grapevine>

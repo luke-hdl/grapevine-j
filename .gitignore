@@ -1,0 +1,37 @@
+# Java/Gradle
+java/.gradle/
+java/build/
+java/out/
+*.class
+*.war
+*.ear
+.gradle/
+build/
+
+# Gradle wrapper jar should be included
+!java/gradle/wrapper/gradle-wrapper.jar
+
+# Test output files
+java/test_out.gex
+
+# IDE
+.idea/
+*.iml
+*.iws
+.vscode/
+.settings/
+.classpath
+.project
+
+# Visual Studio / VB.NET
+headless/bin/
+headless/obj/
+headless/*.user
+headless/*.suo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc.
+out/
