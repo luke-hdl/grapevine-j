@@ -38,8 +38,11 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-gradle-
           
+    - name: Set up wrapper
+      run: cd java && gradle wrapper
+
     - name: Build and test with Gradle
-      run: cd java && ./gradlew clean test
+      run: ./gradlew clean test
       
     - name: Upload test results
       if: always()
